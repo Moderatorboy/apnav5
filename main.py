@@ -53,8 +53,8 @@ SESSION_NAME = os.path.join(BASE_DIR, "vps_uploader_bot")
 # JSON files isi order me process hongi (ek khatam, phir agli)
 # (.env me JSON_FILES=a.json,b.json likhoge to ye list ignore hogi)
 DEFAULT_JSON_FILES = [
-    "dsa.json",
-    "placement.json",
+    "delta5.json",
+    "delta6.json","delta7.json","delta8.json","delta9.json","deltafeb24.json","deltaweb1.json","deltaweb2.json","deltaweb3.json",
 ]
 JSON_FILES = [x.strip() for x in os.getenv("JSON_FILES", "").split(",") if x.strip()] or DEFAULT_JSON_FILES
 
