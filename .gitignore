@@ -1,0 +1,10 @@
+.env
+*.session
+*.session-journal
+progress_state.json
+progress_state.json.tmp
+downloads/
+__pycache__/
+venv/
+.venv/
+nohup.out
