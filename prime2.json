@@ -1,0 +1,4073 @@
+{
+  "id": "prime-2",
+  "name": "Prime 2.0 : AI/ML Batch",
+  "image": "https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/86504d3479f2740022a10c6e95455fb6.jpg",
+  "videoCount": 478,
+  "pdfCount": 39,
+  "isPopular": false,
+  "originalPrice": 0,
+  "startDate": "N/A",
+  "lastSyncedAt": "2026-06-19T04:23:38.033Z",
+  "lectures": [
+    {
+      "id": "prime-2::69bf0fd6109eb5ff43037396",
+      "title": "Orientation Session (Recording)",
+      "link": "https://embed-ssl.wistia.com/deliveries/e528840417b04bc457dfcafdeaa133bbbd28d750.m3u8",
+      "sourceId": "u7ki7cc289",
+      "type": "wistia",
+      "orderIdx": 0
+    },
+    {
+      "id": "prime-2::69c9aa282b713d4a5d0badf3",
+      "title": "Linkedin Mentorship Session (Recording)",
+      "link": "https://embed-ssl.wistia.com/deliveries/9fe472ab417447d71885e70256b0b7aa04bd14f4.m3u8",
+      "sourceId": "ssf5hf60sh",
+      "type": "wistia",
+      "orderIdx": 1
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da15",
+      "title": "Course Objective",
+      "link": "https://embed-ssl.wistia.com/deliveries/63aeff88e944378d3a8278ff6884982f74185cfb.m3u8",
+      "sourceId": "wkujeejs3a",
+      "type": "wistia",
+      "orderIdx": 2
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da16",
+      "title": "What will we Learn?",
+      "link": "https://embed-ssl.wistia.com/deliveries/46e9f750ccf6c76fb09604f20930d245e634529d.m3u8",
+      "sourceId": "rsniy0riw6",
+      "type": "wistia",
+      "orderIdx": 3
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da17",
+      "title": "Schedule",
+      "link": "https://embed-ssl.wistia.com/deliveries/ebcef255ab7723d1ae842cb694f69615f04ae8da.m3u8",
+      "sourceId": "4i3oxtsq3k",
+      "type": "wistia",
+      "orderIdx": 4
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da18",
+      "title": "Why did we choose Python?",
+      "link": "https://embed-ssl.wistia.com/deliveries/f2b7832cfa7bae2cb0347e763544aa354d643da4.m3u8",
+      "sourceId": "855fmh02ab",
+      "type": "wistia",
+      "orderIdx": 5
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da19",
+      "title": "Tools to Install",
+      "link": "https://embed-ssl.wistia.com/deliveries/fee75a0ccb9134afb48d57517a664854a466685e.m3u8",
+      "sourceId": "cz0f5pamfs",
+      "type": "wistia",
+      "orderIdx": 6
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da1b",
+      "title": "Using Visual Studio Code",
+      "link": "https://embed-ssl.wistia.com/deliveries/70073f9f96361fd63291625843f908c8c03fcd9a.m3u8",
+      "sourceId": "bq8e34txli",
+      "type": "wistia",
+      "orderIdx": 7
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da1c",
+      "title": "Our First Program",
+      "link": "https://embed-ssl.wistia.com/deliveries/9b847092757f4ae3460f3d91fa835c92b7d2f1a8.m3u8",
+      "sourceId": "fpa8hfpqqg",
+      "type": "wistia",
+      "orderIdx": 8
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da1d",
+      "title": "Variables in Python",
+      "link": "https://embed-ssl.wistia.com/deliveries/ae64ffcef138b412a5ce691c3af8d48d2da1d724.m3u8",
+      "sourceId": "n8gqwiclkc",
+      "type": "wistia",
+      "orderIdx": 9
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da1e",
+      "title": "Data Types in Python",
+      "link": "https://embed-ssl.wistia.com/deliveries/7d7d1dbcf27ac459e0d4c13b5c2c1c802df4fe1f.m3u8",
+      "sourceId": "hlf54dd4xw",
+      "type": "wistia",
+      "orderIdx": 10
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da1f",
+      "title": "Keywords & Comments",
+      "link": "https://embed-ssl.wistia.com/deliveries/2c127a3b0388d8cea5d808e0462e62212a140255.m3u8",
+      "sourceId": "v1gbqf2yeg",
+      "type": "wistia",
+      "orderIdx": 11
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da20",
+      "title": "Style Guide",
+      "link": "https://embed-ssl.wistia.com/deliveries/6d54d42094d40d3ca6a923ddb34e6fb2fea024e7.m3u8",
+      "sourceId": "6nm3mlt9s8",
+      "type": "wistia",
+      "orderIdx": 12
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da21",
+      "title": "Arithmetic Operators",
+      "link": "https://embed-ssl.wistia.com/deliveries/9c047a7634841bc09019a9b5e8ce26321c1d4180.m3u8",
+      "sourceId": "ovgnnzfio4",
+      "type": "wistia",
+      "orderIdx": 13
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da22",
+      "title": "Relational Operators",
+      "link": "https://embed-ssl.wistia.com/deliveries/03723616e97efb9a4243b73e1d91252292dfc900.m3u8",
+      "sourceId": "o1w2wu8se3",
+      "type": "wistia",
+      "orderIdx": 14
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da23",
+      "title": "Assignment Operators",
+      "link": "https://embed-ssl.wistia.com/deliveries/bb3b47ba1d7cfc88d6976749fb8806777e6031a4.m3u8",
+      "sourceId": "ioqw0jzmf3",
+      "type": "wistia",
+      "orderIdx": 15
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da24",
+      "title": "Logical Operators",
+      "link": "https://embed-ssl.wistia.com/deliveries/200d2e6945e2c542b553cead5973f0bf07caffc0.m3u8",
+      "sourceId": "t994m2lbt5",
+      "type": "wistia",
+      "orderIdx": 16
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da25",
+      "title": "Operator Precedence",
+      "link": "https://embed-ssl.wistia.com/deliveries/0d42dc6d75acc91d7b73c965773fd1f4e05b2e93.m3u8",
+      "sourceId": "vwuhakkgkb",
+      "type": "wistia",
+      "orderIdx": 17
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da26",
+      "title": "Type Conversion & Casting",
+      "link": "https://embed-ssl.wistia.com/deliveries/00b28dcfb71c34ac6367616553991c6c79741e18.m3u8",
+      "sourceId": "f6coq9ckzz",
+      "type": "wistia",
+      "orderIdx": 18
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da27",
+      "title": "Taking User Input",
+      "link": "https://embed-ssl.wistia.com/deliveries/d9e56abd4ed524199c4cdc69e57e9c1771f2859d.m3u8",
+      "sourceId": "v2k8lnbh2k",
+      "type": "wistia",
+      "orderIdx": 19
+    },
+    {
+      "id": "prime-2::69bd5da3d9aef2b58c01da28",
+      "title": "Average of 2 Nums",
+      "link": "https://embed-ssl.wistia.com/deliveries/bed1fb219bbb8fd34b031feb7c98ca688498bdd1.m3u8",
+      "sourceId": "rfqo3lea0c",
+      "type": "wistia",
+      "orderIdx": 20
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e0455",
+      "title": "Conditional Statements in Python",
+      "link": "https://embed-ssl.wistia.com/deliveries/55a5f4ecdfc587721867156c3240489f4815882b.m3u8",
+      "sourceId": "o6scziys0t",
+      "type": "wistia",
+      "orderIdx": 21
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e0456",
+      "title": "Practice Examples (Conditionals)",
+      "link": "https://embed-ssl.wistia.com/deliveries/849920afa4c7de1676de5affc2bc69b51a53da57.m3u8",
+      "sourceId": "pz71ifiv96",
+      "type": "wistia",
+      "orderIdx": 22
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e0457",
+      "title": "Odd or Even",
+      "link": "https://embed-ssl.wistia.com/deliveries/4d91844d64a645410d93cee5e2de484092f628fa.m3u8",
+      "sourceId": "8f6i81islo",
+      "type": "wistia",
+      "orderIdx": 23
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e0458",
+      "title": "Nesting",
+      "link": "https://embed-ssl.wistia.com/deliveries/e4351048a57a4ea6a196d952efdbff9d91ca9cdb.m3u8",
+      "sourceId": "reulhpja6h",
+      "type": "wistia",
+      "orderIdx": 24
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e0459",
+      "title": "Match case in Python",
+      "link": "https://embed-ssl.wistia.com/deliveries/cea29285d1bb430eaaae317e5ac1e6993de54c57.m3u8",
+      "sourceId": "vn35pnfpve",
+      "type": "wistia",
+      "orderIdx": 25
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e045a",
+      "title": "Loops using while",
+      "link": "https://embed-ssl.wistia.com/deliveries/7c3778b1221d8fd8bcb4dad67b0585e157b948fc.m3u8",
+      "sourceId": "nf1j03perk",
+      "type": "wistia",
+      "orderIdx": 26
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e045b",
+      "title": "Practice Examples (Loops)",
+      "link": "https://embed-ssl.wistia.com/deliveries/edb0f381128323868ef1cdba3297331fe1b76854.m3u8",
+      "sourceId": "h5mm71ua4s",
+      "type": "wistia",
+      "orderIdx": 27
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e045c",
+      "title": "Multiplication Table of N",
+      "link": "https://embed-ssl.wistia.com/deliveries/64e148993b6f6d916201f0cf8589e074c62d738e.m3u8",
+      "sourceId": "fbbn2l8qrp",
+      "type": "wistia",
+      "orderIdx": 28
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e045d",
+      "title": "Break & Continue",
+      "link": "https://embed-ssl.wistia.com/deliveries/40269d8d0c8c1b6b17f398ad9f53d3c19b7d072d.m3u8",
+      "sourceId": "0lygufiv5g",
+      "type": "wistia",
+      "orderIdx": 29
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e045e",
+      "title": "Loops using for",
+      "link": "https://embed-ssl.wistia.com/deliveries/f715260025527026b774e10cf99f6847d76749c6.m3u8",
+      "sourceId": "6vbr73fwz0",
+      "type": "wistia",
+      "orderIdx": 30
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e045f",
+      "title": "Vowel Count",
+      "link": "https://embed-ssl.wistia.com/deliveries/6c750655cbfa8a35f247937a57473918b7797eeb.m3u8",
+      "sourceId": "9rmrts6ezs",
+      "type": "wistia",
+      "orderIdx": 31
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e0460",
+      "title": "range( ) Function",
+      "link": "https://embed-ssl.wistia.com/deliveries/b7ed1034e73a38b7dbccb42889518354e3336432.m3u8",
+      "sourceId": "h88w7q8wx6",
+      "type": "wistia",
+      "orderIdx": 32
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e0461",
+      "title": "Sum of N numbers",
+      "link": "https://embed-ssl.wistia.com/deliveries/57c77f6c4857dc4e4b67954b391962158b0aa3bb.m3u8",
+      "sourceId": "a78py3keyr",
+      "type": "wistia",
+      "orderIdx": 33
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e0462",
+      "title": "Functions in Python",
+      "link": "https://embed-ssl.wistia.com/deliveries/b62dc0a916921a422836ed8f90865c34cedb80c8.m3u8",
+      "sourceId": "7vxm4oef15",
+      "type": "wistia",
+      "orderIdx": 34
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e0463",
+      "title": "Practice Examples (Functions)",
+      "link": "https://embed-ssl.wistia.com/deliveries/7242d6a262215ac2662627c82b84937477ff2822.m3u8",
+      "sourceId": "e2405u9l4v",
+      "type": "wistia",
+      "orderIdx": 35
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e0464",
+      "title": "Types of Functions",
+      "link": "https://embed-ssl.wistia.com/deliveries/246cb999fd3b9a74397e25e26f9a15a743511451.m3u8",
+      "sourceId": "0cb63612ru",
+      "type": "wistia",
+      "orderIdx": 36
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e0465",
+      "title": "Lambda Functions",
+      "link": "https://embed-ssl.wistia.com/deliveries/5b18274c70913bb3db752812fee91b9c56d56530.m3u8",
+      "sourceId": "7t6crrtwod",
+      "type": "wistia",
+      "orderIdx": 37
+    },
+    {
+      "id": "prime-2::69c66c1f1847bed6280e0466",
+      "title": "Factorial of N",
+      "link": "https://embed-ssl.wistia.com/deliveries/78a961106f03fb003520646a93eb94643b4c8ff6.m3u8",
+      "sourceId": "01eegarow9",
+      "type": "wistia",
+      "orderIdx": 38
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d774",
+      "title": "Strings in Python",
+      "link": "https://embed-ssl.wistia.com/deliveries/c637bbf23d81550542f4e7dc6ec690fa93c22099.m3u8",
+      "sourceId": "6l88u1h9za",
+      "type": "wistia",
+      "orderIdx": 39
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d775",
+      "title": "Slicing in Strings",
+      "link": "https://embed-ssl.wistia.com/deliveries/5ae123506c2a921bb02eb3c8566cbac110191c03.m3u8",
+      "sourceId": "4tk7gwi3at",
+      "type": "wistia",
+      "orderIdx": 40
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d776",
+      "title": "String Formatting - f-string & format( )",
+      "link": "https://embed-ssl.wistia.com/deliveries/d53958ecee08e9e72960b9cd7134ab7498c54d6a.m3u8",
+      "sourceId": "8xfu1615xl",
+      "type": "wistia",
+      "orderIdx": 41
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d777",
+      "title": "Lists in Python",
+      "link": "https://embed-ssl.wistia.com/deliveries/966db926228efbfba1a173472d27b9e01efe5491.m3u8",
+      "sourceId": "lu1ewbnygw",
+      "type": "wistia",
+      "orderIdx": 42
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d778",
+      "title": "List Methods",
+      "link": "https://embed-ssl.wistia.com/deliveries/8013dbe5358cc0e37090742209ab4a36c538d747.m3u8",
+      "sourceId": "xg4s5p42x4",
+      "type": "wistia",
+      "orderIdx": 43
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d779",
+      "title": "Using Loops with Lists",
+      "link": "https://embed-ssl.wistia.com/deliveries/131aac574cbe005facbc36ff22068e757e80c3ca.m3u8",
+      "sourceId": "dqx8qp1vxn",
+      "type": "wistia",
+      "orderIdx": 44
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d77a",
+      "title": "Tuples in Python",
+      "link": "https://embed-ssl.wistia.com/deliveries/b7c5e104a396203296b9b7fdc92b5e863260a004.m3u8",
+      "sourceId": "lgigl82p06",
+      "type": "wistia",
+      "orderIdx": 45
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d77b",
+      "title": "Tuple Methods",
+      "link": "https://embed-ssl.wistia.com/deliveries/975176e14f8241007aa7eae040eb600758d7a935.m3u8",
+      "sourceId": "r01vaql6er",
+      "type": "wistia",
+      "orderIdx": 46
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d77c",
+      "title": "Dictionary in Python",
+      "link": "https://embed-ssl.wistia.com/deliveries/3c05a7f2996458f670a9940cc1b9e67e0650398d.m3u8",
+      "sourceId": "9kujh99adj",
+      "type": "wistia",
+      "orderIdx": 47
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d77d",
+      "title": "Dictionary Methods",
+      "link": "https://embed-ssl.wistia.com/deliveries/5973826a83c4921caf1d108775de594fb933e7fb.m3u8",
+      "sourceId": "54emumh5yf",
+      "type": "wistia",
+      "orderIdx": 48
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d77e",
+      "title": "Sets in Python",
+      "link": "https://embed-ssl.wistia.com/deliveries/ce033aec25727d6b6b327662e55e2a7c8a1aeb2b.m3u8",
+      "sourceId": "v0xrrkefuz",
+      "type": "wistia",
+      "orderIdx": 49
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d77f",
+      "title": "Set Methods",
+      "link": "https://embed-ssl.wistia.com/deliveries/823df4e5a69317c397bbe8ef74fc1a09c1dccd7f.m3u8",
+      "sourceId": "mpsi6e41su",
+      "type": "wistia",
+      "orderIdx": 50
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d780",
+      "title": "Practice Problem (Part a & b)",
+      "link": "https://embed-ssl.wistia.com/deliveries/ab724f346cd3555f4376ef7c7a6d934a16b20387.m3u8",
+      "sourceId": "vce9s2rns9",
+      "type": "wistia",
+      "orderIdx": 51
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d781",
+      "title": "Practice Problem (Part c)",
+      "link": "https://embed-ssl.wistia.com/deliveries/46f269fe733e8b45c7b067a6d4d2efe91e13bff6.m3u8",
+      "sourceId": "m4qmhpnm1u",
+      "type": "wistia",
+      "orderIdx": 52
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d784",
+      "title": "What is Object Oriented Programming?",
+      "link": "https://embed-ssl.wistia.com/deliveries/a79d05d309c065bf1217ecec89f008815b844552.m3u8",
+      "sourceId": "k39rkw3xp1",
+      "type": "wistia",
+      "orderIdx": 53
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d785",
+      "title": "Classes & Objects",
+      "link": "https://embed-ssl.wistia.com/deliveries/c61d48468357f3645c419ca128d5f682bb03bf84.m3u8",
+      "sourceId": "vw3b286wyw",
+      "type": "wistia",
+      "orderIdx": 54
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d786",
+      "title": "Attributes & Methods",
+      "link": "https://embed-ssl.wistia.com/deliveries/bfb6e0ce2cad9015e28c1ec1befb7165e8baab74.m3u8",
+      "sourceId": "pjap31z8gw",
+      "type": "wistia",
+      "orderIdx": 55
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d787",
+      "title": "Constructor - init( ) Method",
+      "link": "https://embed-ssl.wistia.com/deliveries/d6f3199958887bfc2e70bf871c4aada2d40e2534.m3u8",
+      "sourceId": "df6tlth3mb",
+      "type": "wistia",
+      "orderIdx": 56
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d788",
+      "title": "Types of Constructors",
+      "link": "https://embed-ssl.wistia.com/deliveries/88c43caf7fc84a1ac6503a80784b09ad9a726e63.m3u8",
+      "sourceId": "hxaqlsq524",
+      "type": "wistia",
+      "orderIdx": 57
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d789",
+      "title": "Attributes - class & instance",
+      "link": "https://embed-ssl.wistia.com/deliveries/f9d6c717380071ee00d2990eea027b1b2c07ac20.m3u8",
+      "sourceId": "72osru30vz",
+      "type": "wistia",
+      "orderIdx": 58
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d78a",
+      "title": "Instance Methods",
+      "link": "https://embed-ssl.wistia.com/deliveries/47898f6acafbc3d76ba4ec1dee88f0cf5529b040.m3u8",
+      "sourceId": "18a8djxwyo",
+      "type": "wistia",
+      "orderIdx": 59
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d78b",
+      "title": "Class Methods",
+      "link": "https://embed-ssl.wistia.com/deliveries/6db13552534ec4033321dca4e8f9e02547ce2567.m3u8",
+      "sourceId": "5b3g65164h",
+      "type": "wistia",
+      "orderIdx": 60
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d78c",
+      "title": "Static Methods",
+      "link": "https://embed-ssl.wistia.com/deliveries/5a38ed72cde8bda4742665f9c4134f9064470e86.m3u8",
+      "sourceId": "8yrqih9g4h",
+      "type": "wistia",
+      "orderIdx": 61
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d78d",
+      "title": "Practice Problem",
+      "link": "https://embed-ssl.wistia.com/deliveries/c045090809b244716fb56c92c21692e673505d4c.m3u8",
+      "sourceId": "elrj0yduvu",
+      "type": "wistia",
+      "orderIdx": 62
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d78e",
+      "title": "Encapsulation in OOPs",
+      "link": "https://embed-ssl.wistia.com/deliveries/52bcd60c39f1f19e2920c1e48f492d9247c7b647.m3u8",
+      "sourceId": "jpyim7eo4j",
+      "type": "wistia",
+      "orderIdx": 63
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d78f",
+      "title": "Inheritance in OOPs",
+      "link": "https://embed-ssl.wistia.com/deliveries/9c9259b778dfd1a289f088be9dbb0521338ab258.m3u8",
+      "sourceId": "1bt77o9ytp",
+      "type": "wistia",
+      "orderIdx": 64
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d790",
+      "title": "Types of Inheritance",
+      "link": "https://embed-ssl.wistia.com/deliveries/8b6dea20dcdc2191792a3b7ca82db3cfda67fc01.m3u8",
+      "sourceId": "ezer7luj9u",
+      "type": "wistia",
+      "orderIdx": 65
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d791",
+      "title": "Abstraction",
+      "link": "https://embed-ssl.wistia.com/deliveries/8b1c5927fd2de6cf181a22c05a22be660083e452.m3u8",
+      "sourceId": "5nydgy6buu",
+      "type": "wistia",
+      "orderIdx": 66
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d792",
+      "title": "Polymorphism (Function Overriding)",
+      "link": "https://embed-ssl.wistia.com/deliveries/5609ffa00311fc7c8cce92d6d431d53eeb6011ac.m3u8",
+      "sourceId": "5sj6a5f3cv",
+      "type": "wistia",
+      "orderIdx": 67
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d793",
+      "title": "Polymorphism (Duck Typing)",
+      "link": "https://embed-ssl.wistia.com/deliveries/07fda42355b4f50bbf7935e90a89ed89eeeac371.m3u8",
+      "sourceId": "8tl255uzkj",
+      "type": "wistia",
+      "orderIdx": 68
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d79a",
+      "title": "File I/O",
+      "link": "https://embed-ssl.wistia.com/deliveries/248243b6bdf2677ed883584ab961ad508e005c9a.m3u8",
+      "sourceId": "33dnbl5iei",
+      "type": "wistia",
+      "orderIdx": 69
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d79b",
+      "title": "Operations on Files",
+      "link": "https://embed-ssl.wistia.com/deliveries/67a15c05e3c14b638f1b73345863de31fc6f2668.m3u8",
+      "sourceId": "biq4liy3et",
+      "type": "wistia",
+      "orderIdx": 70
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d79c",
+      "title": "Modes in File Operations",
+      "link": "https://embed-ssl.wistia.com/deliveries/39170e7a241d6f33dd1f048eeb8554000c26ef1c.m3u8",
+      "sourceId": "cyc8b3byc3",
+      "type": "wistia",
+      "orderIdx": 71
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d79d",
+      "title": "\"with\" Keyword",
+      "link": "https://embed-ssl.wistia.com/deliveries/3d83dd5beee89f094efe101b06cc99b6ba782ab9.m3u8",
+      "sourceId": "h12ektwve8",
+      "type": "wistia",
+      "orderIdx": 72
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d79e",
+      "title": "Delete Files",
+      "link": "https://embed-ssl.wistia.com/deliveries/dd52e8e6f1332ceb13a38923faa19d316d1ed56f.m3u8",
+      "sourceId": "njkyy5q7av",
+      "type": "wistia",
+      "orderIdx": 73
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d79f",
+      "title": "Practice Problem",
+      "link": "https://embed-ssl.wistia.com/deliveries/3b7b1a15dbe85a7dab3ecf30d0dd61d2db5bf5d7.m3u8",
+      "sourceId": "cidy5sphq3",
+      "type": "wistia",
+      "orderIdx": 74
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d7a0",
+      "title": "Exception Handling",
+      "link": "https://embed-ssl.wistia.com/deliveries/9d95feb42a5b13b003ede3eceefa2d77453231d1.m3u8",
+      "sourceId": "9ecaznp59j",
+      "type": "wistia",
+      "orderIdx": 75
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d7a1",
+      "title": "\"finally\" Keyword",
+      "link": "https://embed-ssl.wistia.com/deliveries/3161b521d5c2d3d6a999b5df680df0ead1d0c889.m3u8",
+      "sourceId": "ik5xvv8xnb",
+      "type": "wistia",
+      "orderIdx": 76
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d7a2",
+      "title": "List Comprehensions",
+      "link": "https://embed-ssl.wistia.com/deliveries/dd87931d9aedc75063b1329e2f46b7adf9ba6f13.m3u8",
+      "sourceId": "1soiyhqh3o",
+      "type": "wistia",
+      "orderIdx": 77
+    },
+    {
+      "id": "prime-2::69c66c30e5b6ef91e706d7a3",
+      "title": "Working with JSON Module",
+      "link": "https://embed-ssl.wistia.com/deliveries/530f9f6bdff196eb05f425402939c3c69010e006.m3u8",
+      "sourceId": "94cfnqn6cl",
+      "type": "wistia",
+      "orderIdx": 78
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a9755",
+      "title": "Installing Anaconda",
+      "link": "https://embed-ssl.wistia.com/deliveries/913e21b05e7d56eb7ac4b75efd44955f6bbb11ff.m3u8",
+      "sourceId": "kgvtfjnsxq",
+      "type": "wistia",
+      "orderIdx": 79
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a9756",
+      "title": "Conda Prompt",
+      "link": "https://embed-ssl.wistia.com/deliveries/7651f7194b24338c9c46073e5b857480aa4aab64.m3u8",
+      "sourceId": "hiuxe2bdoh",
+      "type": "wistia",
+      "orderIdx": 80
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a9757",
+      "title": "Installing Jupyter Notebook",
+      "link": "https://embed-ssl.wistia.com/deliveries/614922b512459ef79f122b32554fa8ee70e9ba41.m3u8",
+      "sourceId": "zmt8jvss6a",
+      "type": "wistia",
+      "orderIdx": 81
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a9758",
+      "title": "Installing Jupyter Lab",
+      "link": "https://embed-ssl.wistia.com/deliveries/5bcee067da8431b4ead588927de732ce7239b4d9.m3u8",
+      "sourceId": "io4jfpg4t2",
+      "type": "wistia",
+      "orderIdx": 82
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a9759",
+      "title": "Thinking in Terms of Data",
+      "link": "https://embed-ssl.wistia.com/deliveries/06c37618513668b18989ac706bc836a61d906a07.m3u8",
+      "sourceId": "3dmcy5ib1g",
+      "type": "wistia",
+      "orderIdx": 83
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a975a",
+      "title": "Getting started",
+      "link": "https://embed-ssl.wistia.com/deliveries/646eb117dd9baccaa404d179a68e421d84d72dc6.m3u8",
+      "sourceId": "2jsshhyuf4",
+      "type": "wistia",
+      "orderIdx": 84
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a975b",
+      "title": "Set up JSON data",
+      "link": "https://embed-ssl.wistia.com/deliveries/1478b934433196eacd1a3fb23602acc6ac6a7722.m3u8",
+      "sourceId": "rcvltjfx8g",
+      "type": "wistia",
+      "orderIdx": 85
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a975c",
+      "title": "Amazon Store : Clean & Structure Data",
+      "link": "https://embed-ssl.wistia.com/deliveries/ccd59e8815394a1eb82c219b56d84cb337e7c277.m3u8",
+      "sourceId": "814hbm1xx2",
+      "type": "wistia",
+      "orderIdx": 86
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a975d",
+      "title": "Amazon Store : Meaningful Insights",
+      "link": "https://embed-ssl.wistia.com/deliveries/1b75dedc3bf32b248dd86af717c2d5e838f95e76.m3u8",
+      "sourceId": "zm95r9gk2s",
+      "type": "wistia",
+      "orderIdx": 87
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a975e",
+      "title": "Amazon Store : Recommendation Feature",
+      "link": "https://embed-ssl.wistia.com/deliveries/8632527a1eca22edf53685f93f403a1a0652315a.m3u8",
+      "sourceId": "apdtleee5m",
+      "type": "wistia",
+      "orderIdx": 88
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a9762",
+      "title": "Introduction to NumPy",
+      "link": "https://embed-ssl.wistia.com/deliveries/9699b4a51beff7e47e3fc84afef2a270620dba11.m3u8",
+      "sourceId": "69ke3d9r5b",
+      "type": "wistia",
+      "orderIdx": 89
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a9763",
+      "title": "Installation & Usage",
+      "link": "https://embed-ssl.wistia.com/deliveries/62b408dbd19ce35af877dc4f2fdabe04e7c2fe41.m3u8",
+      "sourceId": "0menrb8d5d",
+      "type": "wistia",
+      "orderIdx": 90
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a9764",
+      "title": "Python List vs NumPy Array",
+      "link": "https://embed-ssl.wistia.com/deliveries/974676ac3a7f32cec6e194349af24b7b977ab3e9.m3u8",
+      "sourceId": "t9b19y4v48",
+      "type": "wistia",
+      "orderIdx": 91
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a9765",
+      "title": "Creating Arrays from Lists",
+      "link": "https://embed-ssl.wistia.com/deliveries/37fbf5c02fb105e7b8dcd300dd75a86381a9d711.m3u8",
+      "sourceId": "ju2ddr2nv8",
+      "type": "wistia",
+      "orderIdx": 92
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a9766",
+      "title": "Creating Arrays (using built-in methods)",
+      "link": "https://embed-ssl.wistia.com/deliveries/e0f8547325c2f650db4f74c4910010d26cf70309.m3u8",
+      "sourceId": "5iplmxxil7",
+      "type": "wistia",
+      "orderIdx": 93
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a9767",
+      "title": "Array Properties",
+      "link": "https://embed-ssl.wistia.com/deliveries/f20280467bbe1fe7a86687ce0a17fbf4bf3b4a0e.m3u8",
+      "sourceId": "ztadlc3ksd",
+      "type": "wistia",
+      "orderIdx": 94
+    },
+    {
+      "id": "prime-2::69cf81d1b802d98c160a9768",
+      "title": "Reshaping Arrays",
+      "link": "https://embed-ssl.wistia.com/deliveries/e75ecd7972289bbb9be504b9c184b90a3ec14059.m3u8",
+      "sourceId": "g43xyemepf",
+      "type": "wistia",
+      "orderIdx": 95
+    },
+    {
+      "id": "prime-2::69cf81d2b802d98c160a9769",
+      "title": "Indexing on Arrays",
+      "link": "https://embed-ssl.wistia.com/deliveries/bb8d8167ab2e02a48cfb4a675bc7744a3c4e64e5.m3u8",
+      "sourceId": "dtkfnodj4o",
+      "type": "wistia",
+      "orderIdx": 96
+    },
+    {
+      "id": "prime-2::69cf81d2b802d98c160a976a",
+      "title": "Slicing Arrays",
+      "link": "https://embed-ssl.wistia.com/deliveries/36c3cb42eaefa0f6676107281243fe9a2a5adcfb.m3u8",
+      "sourceId": "pwy2sg1iqc",
+      "type": "wistia",
+      "orderIdx": 97
+    },
+    {
+      "id": "prime-2::69cf81d2b802d98c160a976b",
+      "title": "Copy v/s View in Slice",
+      "link": "https://embed-ssl.wistia.com/deliveries/41d38a1444f78d5a360d1eb493d0632920f71f0d.m3u8",
+      "sourceId": "k6ce5wn9m2",
+      "type": "wistia",
+      "orderIdx": 98
+    },
+    {
+      "id": "prime-2::69cf81d2b802d98c160a976c",
+      "title": "Common NumPy Data Types",
+      "link": "https://embed-ssl.wistia.com/deliveries/bbf0348b03d93f752efc6097e5de214560f0da1f.m3u8",
+      "sourceId": "a1ps6mwmr6",
+      "type": "wistia",
+      "orderIdx": 99
+    },
+    {
+      "id": "prime-2::69cf81d2b802d98c160a976d",
+      "title": "Multi-dimensional Arrays & Axes",
+      "link": "https://embed-ssl.wistia.com/deliveries/eaffcfc30b510b10625fa2e7e3cce797ec766a7a.m3u8",
+      "sourceId": "rg5p1u4tgt",
+      "type": "wistia",
+      "orderIdx": 100
+    },
+    {
+      "id": "prime-2::69cf81d2b802d98c160a976e",
+      "title": "3D Arrays",
+      "link": "https://embed-ssl.wistia.com/deliveries/e833399ae9687d13c8e58a6029a8d92b5655aff1.m3u8",
+      "sourceId": "ci3dcxj6xf",
+      "type": "wistia",
+      "orderIdx": 101
+    },
+    {
+      "id": "prime-2::69cf81d2b802d98c160a976f",
+      "title": "Vectorization & Broadcasting",
+      "link": "https://embed-ssl.wistia.com/deliveries/29f7bdd16da4fc7cc7392eccf1323e17531c18c8.m3u8",
+      "sourceId": "ucepob2tq7",
+      "type": "wistia",
+      "orderIdx": 102
+    },
+    {
+      "id": "prime-2::69cf81d2b802d98c160a9770",
+      "title": "Vector Normalization",
+      "link": "https://embed-ssl.wistia.com/deliveries/dc108b8d22a4ead81eb6a7044d3e277a23c6b637.m3u8",
+      "sourceId": "r2i7jhccv9",
+      "type": "wistia",
+      "orderIdx": 103
+    },
+    {
+      "id": "prime-2::69cf81d2b802d98c160a9771",
+      "title": "Math -  Mean & Standard Deviation",
+      "link": "https://embed-ssl.wistia.com/deliveries/f8a99ca4c8490f220ad9eef5146c4396c477b226.m3u8",
+      "sourceId": "0aediq7ff3",
+      "type": "wistia",
+      "orderIdx": 104
+    },
+    {
+      "id": "prime-2::69cf81d2b802d98c160a9772",
+      "title": "Mathematical Functions (Aggregate)",
+      "link": "https://embed-ssl.wistia.com/deliveries/467d430e85a0c56a1d68bc8b6546232664a52ab0.m3u8",
+      "sourceId": "jt3b28xt4c",
+      "type": "wistia",
+      "orderIdx": 105
+    },
+    {
+      "id": "prime-2::69cf81d2b802d98c160a9773",
+      "title": "Other Math functions",
+      "link": "https://embed-ssl.wistia.com/deliveries/c40ab08122b5877faec01ebf72aa3fc64c416e74.m3u8",
+      "sourceId": "xjpk2xy5gu",
+      "type": "wistia",
+      "orderIdx": 106
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f044584",
+      "title": "Data Science Process",
+      "link": "https://embed-ssl.wistia.com/deliveries/42701d6d19f631b596fb94b4262c62bfd63f9fca.m3u8",
+      "sourceId": "1z0ficbm8j",
+      "type": "wistia",
+      "orderIdx": 107
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f044585",
+      "title": "What is EDA?",
+      "link": "https://embed-ssl.wistia.com/deliveries/99f02b253b86c40a490e6b0b6c88726d8cc10ee1.m3u8",
+      "sourceId": "qhkv6bi8my",
+      "type": "wistia",
+      "orderIdx": 108
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f044586",
+      "title": "Introduction to Pandas",
+      "link": "https://embed-ssl.wistia.com/deliveries/44415d87dca9c9209adb8520ef85616d256acf09.m3u8",
+      "sourceId": "l64bki74v7",
+      "type": "wistia",
+      "orderIdx": 109
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f044587",
+      "title": "Series in Pandas",
+      "link": "https://embed-ssl.wistia.com/deliveries/2a721c1c01696a0f2ed07fa3572aea5cd3773870.m3u8",
+      "sourceId": "2qdc3hm8a2",
+      "type": "wistia",
+      "orderIdx": 110
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f044588",
+      "title": "Series Properties",
+      "link": "https://embed-ssl.wistia.com/deliveries/4d14c03c8b786421a3738b908aea3c442aaafbd1.m3u8",
+      "sourceId": "4l1adodv9j",
+      "type": "wistia",
+      "orderIdx": 111
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f044589",
+      "title": "DataFrame in Pandas",
+      "link": "https://embed-ssl.wistia.com/deliveries/461a13265a51165d68f15a385dd46d3ddbc2e9e9.m3u8",
+      "sourceId": "1q0o36kt6e",
+      "type": "wistia",
+      "orderIdx": 112
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f04458a",
+      "title": "Pandas with csv & json data - give file",
+      "link": "https://embed-ssl.wistia.com/deliveries/08eeff0a08176b89aecd998fd60dfa5701812f34.m3u8",
+      "sourceId": "6qgp6l51mo",
+      "type": "wistia",
+      "orderIdx": 113
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f04458b",
+      "title": "DataFrame Methods",
+      "link": "https://embed-ssl.wistia.com/deliveries/b997e21be0d9cceeee707057e554f37ca0fef8d4.m3u8",
+      "sourceId": "3encmmjkep",
+      "type": "wistia",
+      "orderIdx": 114
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f04458c",
+      "title": "Using Kaggle DataSet",
+      "link": "https://embed-ssl.wistia.com/deliveries/490f36c23c01846ecd507f0fb72893cdf3da0fb1.m3u8",
+      "sourceId": "820htqg30a",
+      "type": "wistia",
+      "orderIdx": 115
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f04458d",
+      "title": "Indexing & Selecting Data",
+      "link": "https://embed-ssl.wistia.com/deliveries/626107914393b84fe34442e01c7475f736c35dfa.m3u8",
+      "sourceId": "3cvhes7ek1",
+      "type": "wistia",
+      "orderIdx": 116
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f04458e",
+      "title": "Filtering Data",
+      "link": "https://embed-ssl.wistia.com/deliveries/da9103b610f67f808d536807adeffccb5a57fd19.m3u8",
+      "sourceId": "vb6u2xyoxq",
+      "type": "wistia",
+      "orderIdx": 117
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f04458f",
+      "title": "Filtering Data using Query",
+      "link": "https://embed-ssl.wistia.com/deliveries/f8979cda7c8c7d787f27d4d4646a2896c34b258c.m3u8",
+      "sourceId": "6uz8fq9j2m",
+      "type": "wistia",
+      "orderIdx": 118
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f044590",
+      "title": "Data Cleaning (Handle Missing Values) - give file",
+      "link": "https://embed-ssl.wistia.com/deliveries/de61fc3a5e45b6ba0f8ab7e32ba5b80a4032f083.m3u8",
+      "sourceId": "goujt5w5sk",
+      "type": "wistia",
+      "orderIdx": 119
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f044591",
+      "title": "Data Cleaning (Handle Duplicates)",
+      "link": "https://embed-ssl.wistia.com/deliveries/1169782a50b09002498a1cfa0dc68cab97739056.m3u8",
+      "sourceId": "73fb5w9b4v",
+      "type": "wistia",
+      "orderIdx": 120
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f044592",
+      "title": "Data Cleaning (Handle Data Types)",
+      "link": "https://embed-ssl.wistia.com/deliveries/9c82ae43dd9a070605075567152b968da0214144.m3u8",
+      "sourceId": "64dmeq7zwy",
+      "type": "wistia",
+      "orderIdx": 121
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f044593",
+      "title": "Data Cleaning (Handle Strings)",
+      "link": "https://embed-ssl.wistia.com/deliveries/38edfd775879e7f6290b494582020fc44e52af01.m3u8",
+      "sourceId": "7jipbe29ri",
+      "type": "wistia",
+      "orderIdx": 122
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f044597",
+      "title": "Data Transformation",
+      "link": "https://embed-ssl.wistia.com/deliveries/0309da94a59358772e65e45352434aecd00b66b2.m3u8",
+      "sourceId": "vhcexlqmj3",
+      "type": "wistia",
+      "orderIdx": 123
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f044598",
+      "title": "Data Transformation (other Methods)",
+      "link": "https://embed-ssl.wistia.com/deliveries/220370d2a519234a75a064504d274f766bba6e0b.m3u8",
+      "sourceId": "3ybev5ysir",
+      "type": "wistia",
+      "orderIdx": 124
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f044599",
+      "title": "Practice Task",
+      "link": "https://embed-ssl.wistia.com/deliveries/3b791f181cb9185f54f91aa888c7930778e859da.m3u8",
+      "sourceId": "6xzs5e3qfy",
+      "type": "wistia",
+      "orderIdx": 125
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f04459a",
+      "title": "Writing data to csv & json files",
+      "link": "https://embed-ssl.wistia.com/deliveries/3b574113096ebb1cfb358c8e9df4ddb99039c0fa.m3u8",
+      "sourceId": "zebkuoje73",
+      "type": "wistia",
+      "orderIdx": 126
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f04459b",
+      "title": "Group by & Aggregation",
+      "link": "https://embed-ssl.wistia.com/deliveries/dfa05d1e9857866a19e3ecf44ce3992b3f398f4c.m3u8",
+      "sourceId": "nfq4x38bsv",
+      "type": "wistia",
+      "orderIdx": 127
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f04459c",
+      "title": "Melt & Pivot for Reshaping",
+      "link": "https://embed-ssl.wistia.com/deliveries/92e9276b3bf3ce90e165ad292fc17335b493a967.m3u8",
+      "sourceId": "5vj659ivt2",
+      "type": "wistia",
+      "orderIdx": 128
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f04459d",
+      "title": "Basic Visualization with Pandas",
+      "link": "https://embed-ssl.wistia.com/deliveries/d72235f7c1878e09f162607ab61f5c5952fda854.m3u8",
+      "sourceId": "8dpl7ms1f0",
+      "type": "wistia",
+      "orderIdx": 129
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f04459e",
+      "title": "Merge & Join Data",
+      "link": "https://embed-ssl.wistia.com/deliveries/6ca2f7f1601abbb5370022cbcf16cb16997de419.m3u8",
+      "sourceId": "jr7v7mkovw",
+      "type": "wistia",
+      "orderIdx": 130
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f04459f",
+      "title": "Data Concatenation with Pandas",
+      "link": "https://embed-ssl.wistia.com/deliveries/f8250fb22e418b9b34b14b8433472c15bfe2023c.m3u8",
+      "sourceId": "xr85srv6ay",
+      "type": "wistia",
+      "orderIdx": 131
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445a2",
+      "title": "What is Data Collection?",
+      "link": "https://embed-ssl.wistia.com/deliveries/4fbc0cf92a122810a3fb7e305ba05000ef7f07e0.m3u8",
+      "sourceId": "o0m4sw46g6",
+      "type": "wistia",
+      "orderIdx": 132
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445a3",
+      "title": "Multiple Sources for Data Science",
+      "link": "https://embed-ssl.wistia.com/deliveries/caf7d8bf92a52cf8da9abafab57ceadb445d933a.m3u8",
+      "sourceId": "8gbtdvgtid",
+      "type": "wistia",
+      "orderIdx": 133
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445a4",
+      "title": "Starting with SQL",
+      "link": "https://embed-ssl.wistia.com/deliveries/c8eac8c55f1ca0981565b6b6d90dd40616e3ca51.m3u8",
+      "sourceId": "9ebyzzrrqw",
+      "type": "wistia",
+      "orderIdx": 134
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445a5",
+      "title": "What is a Database?",
+      "link": "https://embed-ssl.wistia.com/deliveries/7d4ffa597925420018a9cf585808c536e1e17d31.m3u8",
+      "sourceId": "3xucxtgby3",
+      "type": "wistia",
+      "orderIdx": 135
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445a6",
+      "title": "SQL v/s NoSQL",
+      "link": "https://embed-ssl.wistia.com/deliveries/f472234b1bca11e0489e85bacd8d4b5107782637.m3u8",
+      "sourceId": "s9a8u673mw",
+      "type": "wistia",
+      "orderIdx": 136
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445a7",
+      "title": "What is SQL?",
+      "link": "https://embed-ssl.wistia.com/deliveries/5929df120b1f8ab7657f8b21a2b2ca083d3d820f.m3u8",
+      "sourceId": "793ipq2iuw",
+      "type": "wistia",
+      "orderIdx": 137
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445a8",
+      "title": "What is a Table?",
+      "link": "https://embed-ssl.wistia.com/deliveries/f4231224ac74d7f3f2bb90e475217af1c2cced8a.m3u8",
+      "sourceId": "lxeejarp76",
+      "type": "wistia",
+      "orderIdx": 138
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445a9",
+      "title": "(For Windows) Installation",
+      "link": "https://embed-ssl.wistia.com/deliveries/ad9731c8b5f3747ff6e33228fde6902396dbdd9a.m3u8",
+      "sourceId": "2nh1p6u7jz",
+      "type": "wistia",
+      "orderIdx": 139
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445aa",
+      "title": "(For Mac) Installation",
+      "link": "https://embed-ssl.wistia.com/deliveries/84a471205e84b48fd7de9625ebdf547ddac590dd.m3u8",
+      "sourceId": "ethzgmrbq0",
+      "type": "wistia",
+      "orderIdx": 140
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445ab",
+      "title": "Our First Database",
+      "link": "https://embed-ssl.wistia.com/deliveries/7e40e714f44b0f6f927883d80b3cf5f80ea93d88.m3u8",
+      "sourceId": "5dn6hvuoxl",
+      "type": "wistia",
+      "orderIdx": 141
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445ac",
+      "title": "Our First Table",
+      "link": "https://embed-ssl.wistia.com/deliveries/85864a90541102ad56ae9903e9b1115260ac2d02.m3u8",
+      "sourceId": "c2gdr7hbfr",
+      "type": "wistia",
+      "orderIdx": 142
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445ad",
+      "title": "Database Queries",
+      "link": "https://embed-ssl.wistia.com/deliveries/23f70bbd3b4f64c300f707dbe21c48b60b6a8b18.m3u8",
+      "sourceId": "cqa217c5am",
+      "type": "wistia",
+      "orderIdx": 143
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445ae",
+      "title": "CREATE Table",
+      "link": "https://embed-ssl.wistia.com/deliveries/d3c7cb84edb9458bb1c297ab3db871d4064c6611.m3u8",
+      "sourceId": "3bunslv7hc",
+      "type": "wistia",
+      "orderIdx": 144
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445af",
+      "title": "What are Constraints?",
+      "link": "https://embed-ssl.wistia.com/deliveries/86e9b0efee77f175c24235ef1f6341989b6971c6.m3u8",
+      "sourceId": "dl3kh32y7w",
+      "type": "wistia",
+      "orderIdx": 145
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445b0",
+      "title": "Key Constraints",
+      "link": "https://embed-ssl.wistia.com/deliveries/0968a7436e3a0884e44ef7241383c99ddba4c801.m3u8",
+      "sourceId": "6zmwtojttd",
+      "type": "wistia",
+      "orderIdx": 146
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445b1",
+      "title": "Primary & Foreign Keys",
+      "link": "https://embed-ssl.wistia.com/deliveries/099a021d7b0aba5eaa5ff3b452ac536e1a8ebe9f.m3u8",
+      "sourceId": "yiun5r13e9",
+      "type": "wistia",
+      "orderIdx": 147
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445b2",
+      "title": "INSERT into Table",
+      "link": "https://embed-ssl.wistia.com/deliveries/94b60d70af3fdd896c70e03f6fa57553c220ce65.m3u8",
+      "sourceId": "7b0k1806m5",
+      "type": "wistia",
+      "orderIdx": 148
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445b3",
+      "title": "SELECT Command",
+      "link": "https://embed-ssl.wistia.com/deliveries/17c7611a2a231ddfb9979f69d58ff7ff21438e95.m3u8",
+      "sourceId": "4ay8nusd4e",
+      "type": "wistia",
+      "orderIdx": 149
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445b4",
+      "title": "Where Clause",
+      "link": "https://embed-ssl.wistia.com/deliveries/ce4fc85401ff50f8d033ab652ce4d9c0749212c8.m3u8",
+      "sourceId": "g6u80y1d0g",
+      "type": "wistia",
+      "orderIdx": 150
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445b5",
+      "title": "Operators in Where",
+      "link": "https://embed-ssl.wistia.com/deliveries/ba774c6f607368d6964cd574131adc9c05ad66fc.m3u8",
+      "sourceId": "hz5dwqmzds",
+      "type": "wistia",
+      "orderIdx": 151
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445b6",
+      "title": "Frequently Used Operators",
+      "link": "https://embed-ssl.wistia.com/deliveries/0be389be59d3b3361d79480daa840bbe14aeefb4.m3u8",
+      "sourceId": "jagv8ip4q9",
+      "type": "wistia",
+      "orderIdx": 152
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445b7",
+      "title": "Limit Clause",
+      "link": "https://embed-ssl.wistia.com/deliveries/25a1bd43d6ddb6d61ed9f0b70dffcb921d504706.m3u8",
+      "sourceId": "u4oxxgb6ee",
+      "type": "wistia",
+      "orderIdx": 153
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445b8",
+      "title": "Order By Clause",
+      "link": "https://embed-ssl.wistia.com/deliveries/28606a19556113fcd5e380d0ae49387063fa01ed.m3u8",
+      "sourceId": "3pv6q0wp45",
+      "type": "wistia",
+      "orderIdx": 154
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445b9",
+      "title": "Aggregate Functions",
+      "link": "https://embed-ssl.wistia.com/deliveries/ea88f9bfb8e8eadf4187d9eb5f5356a8883626b2.m3u8",
+      "sourceId": "i11istkr7l",
+      "type": "wistia",
+      "orderIdx": 155
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445ba",
+      "title": "Group By Clause",
+      "link": "https://embed-ssl.wistia.com/deliveries/ecde2331d1c5d50ea908a0fb43562cbf9cedfe3b.m3u8",
+      "sourceId": "4p4jplamxc",
+      "type": "wistia",
+      "orderIdx": 156
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445bb",
+      "title": "Having Clause",
+      "link": "https://embed-ssl.wistia.com/deliveries/8230e38e578b42f308040e93fa0fecbcd43b83f9.m3u8",
+      "sourceId": "223x6qmada",
+      "type": "wistia",
+      "orderIdx": 157
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445bc",
+      "title": "General Order",
+      "link": "https://embed-ssl.wistia.com/deliveries/194625a616e1fd254cb05eac930331e6f4fb5910.m3u8",
+      "sourceId": "03cqd2c9px",
+      "type": "wistia",
+      "orderIdx": 158
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445bd",
+      "title": "UPDATE Table",
+      "link": "https://embed-ssl.wistia.com/deliveries/f153b17d1f930bd5ae33d82972808c77a4521d7c.m3u8",
+      "sourceId": "osofyniutv",
+      "type": "wistia",
+      "orderIdx": 159
+    },
+    {
+      "id": "prime-2::69d7f77cf036902f9f0445be",
+      "title": "DELETE Table",
+      "link": "https://embed-ssl.wistia.com/deliveries/bb5efb791bfa27f145c85008c661cfd0e87ef26f.m3u8",
+      "sourceId": "dwb8vohf8n",
+      "type": "wistia",
+      "orderIdx": 160
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445bf",
+      "title": "ALTER Table",
+      "link": "https://embed-ssl.wistia.com/deliveries/36becf9ec450b10b0104c2677c732fbb3bf9943b.m3u8",
+      "sourceId": "1ku8gmpxoq",
+      "type": "wistia",
+      "orderIdx": 161
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445c0",
+      "title": "TRUNCATE Table",
+      "link": "https://embed-ssl.wistia.com/deliveries/025a97b09a55ed2da698e18daab751ca711ffa16.m3u8",
+      "sourceId": "386dryn9cl",
+      "type": "wistia",
+      "orderIdx": 162
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445c1",
+      "title": "Practice Set 1",
+      "link": "https://embed-ssl.wistia.com/deliveries/41b0c5e0d84f5524dee5ff273c3f3555a62bb5f2.m3u8",
+      "sourceId": "qwlsckm81d",
+      "type": "wistia",
+      "orderIdx": 163
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445c2",
+      "title": "Practice Set 2",
+      "link": "https://embed-ssl.wistia.com/deliveries/f0d19e859ca70984bc950e1337c19c285a80c298.m3u8",
+      "sourceId": "i5clyb95v6",
+      "type": "wistia",
+      "orderIdx": 164
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445c6",
+      "title": "Transactions & ACID Properties",
+      "link": "https://embed-ssl.wistia.com/deliveries/c8a6ebf30a4ba64fe3538956eb1c92bf91233d47.m3u8",
+      "sourceId": "bh8b4ti9xf",
+      "type": "wistia",
+      "orderIdx": 165
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445c7",
+      "title": "Commit in Transactions",
+      "link": "https://embed-ssl.wistia.com/deliveries/d3e7a19a4409449868bcdf4eecdc86801ba5a93c.m3u8",
+      "sourceId": "7iqpgquce6",
+      "type": "wistia",
+      "orderIdx": 166
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445c8",
+      "title": "Rollbacks & Savepoints",
+      "link": "https://embed-ssl.wistia.com/deliveries/fce3b41d5c906ff910232a0590f6580be652e97e.m3u8",
+      "sourceId": "bsq75tl16o",
+      "type": "wistia",
+      "orderIdx": 167
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445c9",
+      "title": "JOINs in SQL (Inner Join)",
+      "link": "https://embed-ssl.wistia.com/deliveries/0518f1bf2fbb08292a63370d481ada519e6aad2a.m3u8",
+      "sourceId": "1auo175nsj",
+      "type": "wistia",
+      "orderIdx": 168
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445ca",
+      "title": "Left Join & Right Join",
+      "link": "https://embed-ssl.wistia.com/deliveries/34072ae380ff9c1cc1ea97f890815ed79ace7d65.m3u8",
+      "sourceId": "bkxa0cylk4",
+      "type": "wistia",
+      "orderIdx": 169
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445cb",
+      "title": "Outer Join & Cross Join",
+      "link": "https://embed-ssl.wistia.com/deliveries/8158250f019ce89e18a0a0ff2fe71b1f6737406e.m3u8",
+      "sourceId": "7c49y8yy9z",
+      "type": "wistia",
+      "orderIdx": 170
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445cc",
+      "title": "Self Join",
+      "link": "https://embed-ssl.wistia.com/deliveries/2f6d77bc8f7461c75bfccdd609fdea0e2f31cf7b.m3u8",
+      "sourceId": "fbxp2449n5",
+      "type": "wistia",
+      "orderIdx": 171
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445cd",
+      "title": "Practice Problem - Exclusive Joins",
+      "link": "https://embed-ssl.wistia.com/deliveries/aed79a54a3e5a0ce0621a808ea1b572a51215d8b.m3u8",
+      "sourceId": "eql4qg21im",
+      "type": "wistia",
+      "orderIdx": 172
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445ce",
+      "title": "Sub-Queries in SQL",
+      "link": "https://embed-ssl.wistia.com/deliveries/df5ed03475c70a2e284eaac1eed9ad3c5a4e60ee.m3u8",
+      "sourceId": "2wz2imjy0g",
+      "type": "wistia",
+      "orderIdx": 173
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445cf",
+      "title": "Views in SQL",
+      "link": "https://embed-ssl.wistia.com/deliveries/7734d9e1ac7a70594d1ee3f96db7fd371730a7fc.m3u8",
+      "sourceId": "ce89u977jm",
+      "type": "wistia",
+      "orderIdx": 174
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445d0",
+      "title": "Index in SQL",
+      "link": "https://embed-ssl.wistia.com/deliveries/f781396b250e34ab7a278150eca8569dd1e70d7c.m3u8",
+      "sourceId": "k5qbyrvgf1",
+      "type": "wistia",
+      "orderIdx": 175
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445d1",
+      "title": "Composite Index",
+      "link": "https://embed-ssl.wistia.com/deliveries/16520dc1d964807fa1e0650daf6d0eb3b1fd1d5f.m3u8",
+      "sourceId": "wbwrmub0dj",
+      "type": "wistia",
+      "orderIdx": 176
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445d2",
+      "title": "Stored Procedures",
+      "link": "https://embed-ssl.wistia.com/deliveries/845da3bcf03821264723af89c3d3361549ef4813.m3u8",
+      "sourceId": "5hrqbfl6up",
+      "type": "wistia",
+      "orderIdx": 177
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445d3",
+      "title": "Call & Drop Procedures",
+      "link": "https://embed-ssl.wistia.com/deliveries/1290facac0698d19a2c682ec828d58373a2b0985.m3u8",
+      "sourceId": "7p9zu3vvk3",
+      "type": "wistia",
+      "orderIdx": 178
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445d5",
+      "title": "Population Techniques (Recap)",
+      "link": "https://embed-ssl.wistia.com/deliveries/55c64734a9e527f0751595a790a8444428f15112.m3u8",
+      "sourceId": "8ummo0chxk",
+      "type": "wistia",
+      "orderIdx": 179
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445d6",
+      "title": "Working with APIs",
+      "link": "https://embed-ssl.wistia.com/deliveries/5743a76e84ecfd9e80d0bb86b9697cfd51f79f63.m3u8",
+      "sourceId": "qcs8cinsza",
+      "type": "wistia",
+      "orderIdx": 180
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445d7",
+      "title": "Homework Problem",
+      "link": "https://embed-ssl.wistia.com/deliveries/15866c8fbe19e8020da446b83067f567727ece1a.m3u8",
+      "sourceId": "zkhqhpwbw6",
+      "type": "wistia",
+      "orderIdx": 181
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445d8",
+      "title": "Starting with Web Scraping",
+      "link": "https://embed-ssl.wistia.com/deliveries/b753b0147f567bc5d4f4894f941953d8b9dc0916.m3u8",
+      "sourceId": "nrghkg1pwb",
+      "type": "wistia",
+      "orderIdx": 182
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445d9",
+      "title": "HTML Overview",
+      "link": "https://embed-ssl.wistia.com/deliveries/171315a712c82fd32659099be7b68171b0022871.m3u8",
+      "sourceId": "ct8shy7y5q",
+      "type": "wistia",
+      "orderIdx": 183
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445da",
+      "title": "Important Tags in HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/b9d0e17c25f7e8be370cd99aa90371617c5d7866.m3u8",
+      "sourceId": "r577zytuwo",
+      "type": "wistia",
+      "orderIdx": 184
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445db",
+      "title": "Attributes in HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/bb286cede6da44105bab8801722c61c0bb848ec1.m3u8",
+      "sourceId": "5us1301qjp",
+      "type": "wistia",
+      "orderIdx": 185
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445dc",
+      "title": "Web Scraping (requests Library)",
+      "link": "https://embed-ssl.wistia.com/deliveries/810398afc7220eb2cc56c7e288b13405fa3880e8.m3u8",
+      "sourceId": "mh739mvdds",
+      "type": "wistia",
+      "orderIdx": 186
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445dd",
+      "title": "Additional Techniques",
+      "link": "https://embed-ssl.wistia.com/deliveries/ee0f33275382dacb6c96d645865bb440543ebf2d.m3u8",
+      "sourceId": "pqquortnku",
+      "type": "wistia",
+      "orderIdx": 187
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445de",
+      "title": "Web Scraping (using BeautifulSoup)",
+      "link": "https://embed-ssl.wistia.com/deliveries/65ee491aaf88d9644d7b81e8b238eaa0e68cac90.m3u8",
+      "sourceId": "uyeq1zbo34",
+      "type": "wistia",
+      "orderIdx": 188
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445df",
+      "title": "BeautifulSoup Methods & Attributes",
+      "link": "https://embed-ssl.wistia.com/deliveries/4b8f74fd1480a5c261ca1a47068e8a35e3a7bd06.m3u8",
+      "sourceId": "e9qy6amxw7",
+      "type": "wistia",
+      "orderIdx": 189
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445e0",
+      "title": "Storing Collected Data",
+      "link": "https://embed-ssl.wistia.com/deliveries/f8cbc820869b0e19700bbe1e87c10ed58dd45598.m3u8",
+      "sourceId": "bcllvvjhux",
+      "type": "wistia",
+      "orderIdx": 190
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445e5",
+      "title": "Introduction to HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/412a9e22b5772201d0340d54f88613220333fb5d.m3u8",
+      "sourceId": "qxbvokwmqj",
+      "type": "wistia",
+      "orderIdx": 191
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445e6",
+      "title": "HTML Elements & Tags",
+      "link": "https://embed-ssl.wistia.com/deliveries/cd2b09138a118fa18a91dfd0685fe52964bbe9bc.m3u8",
+      "sourceId": "9ifsi19vbr",
+      "type": "wistia",
+      "orderIdx": 192
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445e7",
+      "title": "Hello World",
+      "link": "https://embed-ssl.wistia.com/deliveries/07665907760150e4f483fc2f11d15e1e8e0b1e6e.m3u8",
+      "sourceId": "fp2h3r3nvu",
+      "type": "wistia",
+      "orderIdx": 193
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445e8",
+      "title": "Paragraph Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/15ba79251d1cf3c913d135b9f14922a6ace14ff2.m3u8",
+      "sourceId": "g9na6rypsh",
+      "type": "wistia",
+      "orderIdx": 194
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445e9",
+      "title": "Heading Elements",
+      "link": "https://embed-ssl.wistia.com/deliveries/ea6ec0bfe01dcf4c27a3083ff05e967d11105ce0.m3u8",
+      "sourceId": "sobe72tnxk",
+      "type": "wistia",
+      "orderIdx": 195
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445ea",
+      "title": "Practice Qs (Level1A)",
+      "link": "https://embed-ssl.wistia.com/deliveries/3f8bfcb336a1eb01d71317f944b9b0d07361bf16.m3u8",
+      "sourceId": "cfoqf4a3hc",
+      "type": "wistia",
+      "orderIdx": 196
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445eb",
+      "title": "Boilerplate Code",
+      "link": "https://embed-ssl.wistia.com/deliveries/cac0ddbbed75a73566c8f0f6b4ef89430db74476.m3u8",
+      "sourceId": "t51tsv4qzq",
+      "type": "wistia",
+      "orderIdx": 197
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445ec",
+      "title": "Lists in HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/f9558799af6dd5226b98f5d9c7758575eea2c6cd.m3u8",
+      "sourceId": "vw5us5aovy",
+      "type": "wistia",
+      "orderIdx": 198
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445ed",
+      "title": "Attributes in HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/e75adc50958b5b4229b92edf8cf60de5d991f7a2.m3u8",
+      "sourceId": "bpffcphcpm",
+      "type": "wistia",
+      "orderIdx": 199
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445ee",
+      "title": "Anchor Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/0714ff1450c2447d207d172406774f5e9c02bdc1.m3u8",
+      "sourceId": "bp0yxwp6ec",
+      "type": "wistia",
+      "orderIdx": 200
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445ef",
+      "title": "Image Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/69361c9c59a1e55d1a0125ddb592df78da35a0f1.m3u8",
+      "sourceId": "6huct4z3gr",
+      "type": "wistia",
+      "orderIdx": 201
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445f0",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/1847f198b4a0e3c0bcc414938323cb4fb0f0c45a.m3u8",
+      "sourceId": "9t250om9ez",
+      "type": "wistia",
+      "orderIdx": 202
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445f1",
+      "title": "More HTML Tags",
+      "link": "https://embed-ssl.wistia.com/deliveries/1326d0effb1c9f0f8234c27b9379de0352b78b47.m3u8",
+      "sourceId": "cdy348g59o",
+      "type": "wistia",
+      "orderIdx": 203
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445f2",
+      "title": "Comments in HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/6ed58caf4a272ead571b6ce86ff0d2cf78ed6e44.m3u8",
+      "sourceId": "3pi93h105v",
+      "type": "wistia",
+      "orderIdx": 204
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445f3",
+      "title": "Is HTML Case Sensitive?",
+      "link": "https://embed-ssl.wistia.com/deliveries/94bfaa50e24636c45e1827f5b096b4136fef251e.m3u8",
+      "sourceId": "g5mlw0qcsu",
+      "type": "wistia",
+      "orderIdx": 205
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445f4",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/c2aa5ecc37c2ca691563bab6d79f23dfd420c910.m3u8",
+      "sourceId": "danqem6ygu",
+      "type": "wistia",
+      "orderIdx": 206
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445f5",
+      "title": "Inline v/s Block",
+      "link": "https://embed-ssl.wistia.com/deliveries/621ac84c202c7a7106b1569a89b4b6ac2f0aa8af.m3u8",
+      "sourceId": "7oowvmgcal",
+      "type": "wistia",
+      "orderIdx": 207
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445f6",
+      "title": "Div Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/b91de49992e84c50152c80517ecb4865d3553695.m3u8",
+      "sourceId": "d8z01byr2y",
+      "type": "wistia",
+      "orderIdx": 208
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445f7",
+      "title": "Span Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/45b6759da2041110e9d9b09a7194690d55cb0704.m3u8",
+      "sourceId": "3iel3ki50u",
+      "type": "wistia",
+      "orderIdx": 209
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445f8",
+      "title": "Hr Tag",
+      "link": "https://embed-ssl.wistia.com/deliveries/5e62f9d9f2cea2e81eca7c58188ff0a9141e3974.m3u8",
+      "sourceId": "irg61p1y6j",
+      "type": "wistia",
+      "orderIdx": 210
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445f9",
+      "title": "Sup & Sub Tags",
+      "link": "https://embed-ssl.wistia.com/deliveries/c33caf105871b421ba255ba9d88818cd5c14baf1.m3u8",
+      "sourceId": "3q1oq3tkzi",
+      "type": "wistia",
+      "orderIdx": 211
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445fa",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/ce28f91eed4b5dd8327db4b51e00a9e12f505717.m3u8",
+      "sourceId": "in3zq099r2",
+      "type": "wistia",
+      "orderIdx": 212
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445fb",
+      "title": "Semantic Markup",
+      "link": "https://embed-ssl.wistia.com/deliveries/8a25822f488b7993016519654be36caaa2b904ef.m3u8",
+      "sourceId": "u4f772478e",
+      "type": "wistia",
+      "orderIdx": 213
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445fc",
+      "title": "Semantic Tags",
+      "link": "https://embed-ssl.wistia.com/deliveries/6b3864f73aedb8e0781a428e51f037c77a6464be.m3u8",
+      "sourceId": "1aubc783az",
+      "type": "wistia",
+      "orderIdx": 214
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445fd",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/0b4adddc5b558103a3b11b0caef4bd1d2eb3f8ae.m3u8",
+      "sourceId": "lnmjqscmau",
+      "type": "wistia",
+      "orderIdx": 215
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445fe",
+      "title": "HTML Entities",
+      "link": "https://embed-ssl.wistia.com/deliveries/7529bd44575fe860273da616ba5dfe10fdff0192.m3u8",
+      "sourceId": "6x68liv18j",
+      "type": "wistia",
+      "orderIdx": 216
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f0445ff",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/e709ef717c7310aba99aa40188766a403ff5f958.m3u8",
+      "sourceId": "panzbsb5d6",
+      "type": "wistia",
+      "orderIdx": 217
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f044600",
+      "title": "Emmets",
+      "link": "https://embed-ssl.wistia.com/deliveries/d051d1b26efb404ee74699232f25393270eb7071.m3u8",
+      "sourceId": "oeylvd5qgx",
+      "type": "wistia",
+      "orderIdx": 218
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f044601",
+      "title": "Further Understanding HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/acea4dc68537331c6675a07a9c14d6ffcd999527.m3u8",
+      "sourceId": "0df8zr5u37",
+      "type": "wistia",
+      "orderIdx": 219
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f044602",
+      "title": "Tables in HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/6a45fb2117404047c0c53e344b9a7e87efd9f01e.m3u8",
+      "sourceId": "3hvrosdm8f",
+      "type": "wistia",
+      "orderIdx": 220
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f044603",
+      "title": "Semantics in Tables",
+      "link": "https://embed-ssl.wistia.com/deliveries/980475976c6b21b218375777ba4ce41dbc3408fc.m3u8",
+      "sourceId": "9hj8qvduqg",
+      "type": "wistia",
+      "orderIdx": 221
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f044604",
+      "title": "Colspan & Rowspan Attributes",
+      "link": "https://embed-ssl.wistia.com/deliveries/2d914f119db969aacbd72b98652e54ba6d1b13a2.m3u8",
+      "sourceId": "y3fba8sjfj",
+      "type": "wistia",
+      "orderIdx": 222
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f044605",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/81cbe9ab82e3d4020abaf99a535cd60093b2038e.m3u8",
+      "sourceId": "v5xwozhqwu",
+      "type": "wistia",
+      "orderIdx": 223
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f044606",
+      "title": "Forms in HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/4496e95acab8218c9e0be13e0d8b43d615877f80.m3u8",
+      "sourceId": "wqzoijwsmu",
+      "type": "wistia",
+      "orderIdx": 224
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f044607",
+      "title": "Input - Form Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/12cab8aa0e67b561628321ea1a025ff713066d0d.m3u8",
+      "sourceId": "9t4nndd5hn",
+      "type": "wistia",
+      "orderIdx": 225
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f044608",
+      "title": "Placeholders & Labels",
+      "link": "https://embed-ssl.wistia.com/deliveries/2edba33562c00d26845afaf9c9520ac0f4dcc879.m3u8",
+      "sourceId": "x9fphbckn0",
+      "type": "wistia",
+      "orderIdx": 226
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f044609",
+      "title": "Button Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/4529d538b96a1aab904901c564758dbe5d9f0973.m3u8",
+      "sourceId": "wtl2o0wcx0",
+      "type": "wistia",
+      "orderIdx": 227
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f04460a",
+      "title": "Name Attribute",
+      "link": "https://embed-ssl.wistia.com/deliveries/6c9ed42a3662a42e2fd71a754e372265c6babe45.m3u8",
+      "sourceId": "n5jeloaqqb",
+      "type": "wistia",
+      "orderIdx": 228
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f04460b",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/cd9582397415a652bd6ce20e1ea34093f9570937.m3u8",
+      "sourceId": "ld7h6159vx",
+      "type": "wistia",
+      "orderIdx": 229
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f04460c",
+      "title": "Checkbox - Input Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/19db41656f11b998ba66f949d34b7e2408707e06.m3u8",
+      "sourceId": "34d4owbgi6",
+      "type": "wistia",
+      "orderIdx": 230
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f04460d",
+      "title": "Radio - Input Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/32d2b9a1887aad45958ed84f273e958b3989de57.m3u8",
+      "sourceId": "1wh0t07j78",
+      "type": "wistia",
+      "orderIdx": 231
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f04460e",
+      "title": "Select - Input Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/11ed91a00524ebf069c183c4c238233db93b935a.m3u8",
+      "sourceId": "kz09bpvkds",
+      "type": "wistia",
+      "orderIdx": 232
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f04460f",
+      "title": "Range - Input Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/c96cf33c93eca4f00dde2875c07cd18dd1b02357.m3u8",
+      "sourceId": "l7ei4jbh8a",
+      "type": "wistia",
+      "orderIdx": 233
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f044610",
+      "title": "Text Area",
+      "link": "https://embed-ssl.wistia.com/deliveries/9d6e56a5bb74c4c7abc88e822c751e9c372137a9.m3u8",
+      "sourceId": "d5zkf46pzf",
+      "type": "wistia",
+      "orderIdx": 234
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f044611",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/454707b7da2e79d13ba51925b26c447b7d33a6ca.m3u8",
+      "sourceId": "4kxssr644i",
+      "type": "wistia",
+      "orderIdx": 235
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f044612",
+      "title": "Solution - Part 1",
+      "link": "https://embed-ssl.wistia.com/deliveries/143f44a53e6b735e35cefa369e616d6fe42a4aeb.m3u8",
+      "sourceId": "kqljvfc65h",
+      "type": "wistia",
+      "orderIdx": 236
+    },
+    {
+      "id": "prime-2::69d7f77df036902f9f044613",
+      "title": "Solution - Part 2",
+      "link": "https://embed-ssl.wistia.com/deliveries/4f5ebfa47337593807495ae5380fcfda7b71de9f.m3u8",
+      "sourceId": "5xrfqzdiiy",
+      "type": "wistia",
+      "orderIdx": 237
+    },
+    {
+      "id": "prime-2::69eb17e2e4e866bddd0cda44",
+      "title": "What is Data Visualization?",
+      "link": "https://embed-ssl.wistia.com/deliveries/aad7b4169cfda433b5bcef3a60ef943743aa7016.m3u8",
+      "sourceId": "fsgb33n371",
+      "type": "wistia",
+      "orderIdx": 238
+    },
+    {
+      "id": "prime-2::69eb17e2e4e866bddd0cda45",
+      "title": "How to Plot data?",
+      "link": "https://embed-ssl.wistia.com/deliveries/37e0149acf4561da6dac08611ad91854b672690d.m3u8",
+      "sourceId": "1cb6l0dkfo",
+      "type": "wistia",
+      "orderIdx": 239
+    },
+    {
+      "id": "prime-2::69eb17e2e4e866bddd0cda46",
+      "title": "Introduction to Matplotlib",
+      "link": "https://embed-ssl.wistia.com/deliveries/e956c7f4af782f69300178f0b5e978871fe336cc.m3u8",
+      "sourceId": "s6wkhkyr85",
+      "type": "wistia",
+      "orderIdx": 240
+    },
+    {
+      "id": "prime-2::69eb17e2e4e866bddd0cda47",
+      "title": "Important Plot Methods",
+      "link": "https://embed-ssl.wistia.com/deliveries/fa529323aa31e5eca52d8fd7eb266f91c81ca987.m3u8",
+      "sourceId": "6lvuyhlwn9",
+      "type": "wistia",
+      "orderIdx": 241
+    },
+    {
+      "id": "prime-2::69eb17e2e4e866bddd0cda48",
+      "title": "Multiple datasets on Line Plot",
+      "link": "https://embed-ssl.wistia.com/deliveries/2ae92a14f37053074cc25b3713de05cb197aff2d.m3u8",
+      "sourceId": "wons0ygx7u",
+      "type": "wistia",
+      "orderIdx": 242
+    },
+    {
+      "id": "prime-2::69eb17e2e4e866bddd0cda49",
+      "title": "Format Strings",
+      "link": "https://embed-ssl.wistia.com/deliveries/b6b9cbfaa0879457e126c21d3b423d6ff2aa8514.m3u8",
+      "sourceId": "50mcx3772c",
+      "type": "wistia",
+      "orderIdx": 243
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda4a",
+      "title": "Styling & Saving Plots",
+      "link": "https://embed-ssl.wistia.com/deliveries/1e83423150e2f1a24096c3404f1ac00d686c0d90.m3u8",
+      "sourceId": "xu2b5sgkq2",
+      "type": "wistia",
+      "orderIdx": 244
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda4b",
+      "title": "Common Plots & Charts",
+      "link": "https://embed-ssl.wistia.com/deliveries/2229f23067842b7958f9a14b06a380643577dc82.m3u8",
+      "sourceId": "80urc4ufqp",
+      "type": "wistia",
+      "orderIdx": 245
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda4c",
+      "title": "Bar Charts (Vertical)",
+      "link": "https://embed-ssl.wistia.com/deliveries/bf361cccf7641a706eea36870ac7704d9def93cf.m3u8",
+      "sourceId": "lkgestw0gk",
+      "type": "wistia",
+      "orderIdx": 246
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda4d",
+      "title": "Add Bar labels",
+      "link": "https://embed-ssl.wistia.com/deliveries/9bec3381741dffa1484d35916497993bdcba1c54.m3u8",
+      "sourceId": "zmy5z3z0hn",
+      "type": "wistia",
+      "orderIdx": 247
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda4e",
+      "title": "Multiple datasets on Bar Chart",
+      "link": "https://embed-ssl.wistia.com/deliveries/eed8191808188a806c57d7db1bea672653d5cf16.m3u8",
+      "sourceId": "stkwa1obt6",
+      "type": "wistia",
+      "orderIdx": 248
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda4f",
+      "title": "Bar Charts (Horizontal)",
+      "link": "https://embed-ssl.wistia.com/deliveries/64ddcf4e5de7225835ade21bb9e5d6148f3291f0.m3u8",
+      "sourceId": "0n9y2k1d8p",
+      "type": "wistia",
+      "orderIdx": 249
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda50",
+      "title": "Scatter Plots",
+      "link": "https://embed-ssl.wistia.com/deliveries/80b9c54c46bb13545a0d82a23dd1a67dd899b5f9.m3u8",
+      "sourceId": "otbqe2atra",
+      "type": "wistia",
+      "orderIdx": 250
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda51",
+      "title": "Customizations on Scatter Plots",
+      "link": "https://embed-ssl.wistia.com/deliveries/43aeb9ec61447162dfbe0d29737d550a7f60bf5b.m3u8",
+      "sourceId": "7jfdpfi452",
+      "type": "wistia",
+      "orderIdx": 251
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda52",
+      "title": "Add Annotations",
+      "link": "https://embed-ssl.wistia.com/deliveries/ea1683eba9e92a9628b41a1f3a30273b2c9181c2.m3u8",
+      "sourceId": "p30tfvnzzm",
+      "type": "wistia",
+      "orderIdx": 252
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda53",
+      "title": "Multiple datasets on Scatter Plots",
+      "link": "https://embed-ssl.wistia.com/deliveries/9d561992248118708eb9550bac5a763440e7f843.m3u8",
+      "sourceId": "qy5c1imdps",
+      "type": "wistia",
+      "orderIdx": 253
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda54",
+      "title": "Pie Charts",
+      "link": "https://embed-ssl.wistia.com/deliveries/581ae442349ca5bd577e88be45f0f1a240ad4c24.m3u8",
+      "sourceId": "kln5qlj9uv",
+      "type": "wistia",
+      "orderIdx": 254
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda55",
+      "title": "Customizations on Pie Charts",
+      "link": "https://embed-ssl.wistia.com/deliveries/f7a9241fcfcd253c8327504cf96b1d6a374c5e4e.m3u8",
+      "sourceId": "s02iun4x64",
+      "type": "wistia",
+      "orderIdx": 255
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda59",
+      "title": "Histograms",
+      "link": "https://embed-ssl.wistia.com/deliveries/b39888cd63536f1031dfefa84e4a6ce0e11256a1.m3u8",
+      "sourceId": "bkixz97yry",
+      "type": "wistia",
+      "orderIdx": 256
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda5a",
+      "title": "Multiple datasets on Histogram",
+      "link": "https://embed-ssl.wistia.com/deliveries/2de8670cab7a36f9878da8982da4e07f18fc7572.m3u8",
+      "sourceId": "q165wtmntr",
+      "type": "wistia",
+      "orderIdx": 257
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda5b",
+      "title": "axvline in Histogram",
+      "link": "https://embed-ssl.wistia.com/deliveries/0c61ffb78c844f8eba51ab37df45fa14a5f8e1f0.m3u8",
+      "sourceId": "xle06as0is",
+      "type": "wistia",
+      "orderIdx": 258
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda5c",
+      "title": "Box Plots",
+      "link": "https://embed-ssl.wistia.com/deliveries/3ce0c312fe96b34530eb2214a283829591c91dac.m3u8",
+      "sourceId": "x88hc13ngl",
+      "type": "wistia",
+      "orderIdx": 259
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda5d",
+      "title": "Operations on Box Plot",
+      "link": "https://embed-ssl.wistia.com/deliveries/e15fb428d27597a57d4876a39762fc11941e66a2.m3u8",
+      "sourceId": "3ud690pcnh",
+      "type": "wistia",
+      "orderIdx": 260
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda5e",
+      "title": "Stack Plots",
+      "link": "https://embed-ssl.wistia.com/deliveries/8f2b113a2845c04e758c9a211e874bd721f0defc.m3u8",
+      "sourceId": "k1uvqy769h",
+      "type": "wistia",
+      "orderIdx": 261
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda5f",
+      "title": "Subplots",
+      "link": "https://embed-ssl.wistia.com/deliveries/3957a2ed021dd3e56ecaa5c6d1f5601e09ff32fd.m3u8",
+      "sourceId": "azkde4x0nb",
+      "type": "wistia",
+      "orderIdx": 262
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda60",
+      "title": "Modern Matplotlib",
+      "link": "https://embed-ssl.wistia.com/deliveries/ce72028265518ff0508f4690d2bdcf0fcb4d6d07.m3u8",
+      "sourceId": "p8o7bwiv3f",
+      "type": "wistia",
+      "orderIdx": 263
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda61",
+      "title": "Practice Task (Weekly Temperature)",
+      "link": "https://embed-ssl.wistia.com/deliveries/3a772032e5d9e0ca9f8860362eb4735158ac1f67.m3u8",
+      "sourceId": "v2uqvhxvwo",
+      "type": "wistia",
+      "orderIdx": 264
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda62",
+      "title": "Introduction to Seaborn",
+      "link": "https://embed-ssl.wistia.com/deliveries/df7bf469c21beaa382ebac7d34cbcc51758364f0.m3u8",
+      "sourceId": "dmh7foaora",
+      "type": "wistia",
+      "orderIdx": 265
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda63",
+      "title": "Creating Plots with Seaborn",
+      "link": "https://embed-ssl.wistia.com/deliveries/0c5c901b09ab84cde7a9d0b8a17cfbcfb09f7b6f.m3u8",
+      "sourceId": "70mph2luk6",
+      "type": "wistia",
+      "orderIdx": 266
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda64",
+      "title": "Relational Plots in Seaborn",
+      "link": "https://embed-ssl.wistia.com/deliveries/6a805b3b5c79d8ce156e066e90867a1b50c120fc.m3u8",
+      "sourceId": "edk3anytnd",
+      "type": "wistia",
+      "orderIdx": 267
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda65",
+      "title": "Categorical Plots in Seaborn",
+      "link": "https://embed-ssl.wistia.com/deliveries/482cc49f568adbecd56864969cc879eb9319d341.m3u8",
+      "sourceId": "8onvo7itic",
+      "type": "wistia",
+      "orderIdx": 268
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda66",
+      "title": "Distribution Plots in Seaborn",
+      "link": "https://embed-ssl.wistia.com/deliveries/c16a2e10492086a8daca590c13d00493e8dbd453.m3u8",
+      "sourceId": "g9if89xtly",
+      "type": "wistia",
+      "orderIdx": 269
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda67",
+      "title": "Relational Plots in Seaborn - Heatmaps",
+      "link": "https://embed-ssl.wistia.com/deliveries/4bdf905803feca9457395be99d4db2f657925c38.m3u8",
+      "sourceId": "bwaqjkm5ry",
+      "type": "wistia",
+      "orderIdx": 270
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda68",
+      "title": "Best Practices for Data Visualization",
+      "link": "https://embed-ssl.wistia.com/deliveries/0bd4f4f3e9cd013b55e303ab705642dfd7bc1069.m3u8",
+      "sourceId": "3hoymm8c4u",
+      "type": "wistia",
+      "orderIdx": 271
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda6f",
+      "title": "Math for AI",
+      "link": "https://embed-ssl.wistia.com/deliveries/55ece5f90a2a3c2f386989b6837609083617c7fb.m3u8",
+      "sourceId": "qfe9qdt7bv",
+      "type": "wistia",
+      "orderIdx": 272
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda70",
+      "title": "Understanding Probability",
+      "link": "https://embed-ssl.wistia.com/deliveries/ce7502ccc8bfdbb3ab2840a54062c26b196df3de.m3u8",
+      "sourceId": "8fu5wl4lmw",
+      "type": "wistia",
+      "orderIdx": 273
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda71",
+      "title": "Probability Examples",
+      "link": "https://embed-ssl.wistia.com/deliveries/7526deeaa3d07d5b48ca9e63a72cdfbb6d4ce268.m3u8",
+      "sourceId": "kk7mlt67pd",
+      "type": "wistia",
+      "orderIdx": 274
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda72",
+      "title": "Solving Practice Problems",
+      "link": "https://embed-ssl.wistia.com/deliveries/633a52c936aa2d3a08c8c2225df7919b10e9b31d.m3u8",
+      "sourceId": "6e3b1n3zzv",
+      "type": "wistia",
+      "orderIdx": 275
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda73",
+      "title": "Types of Events",
+      "link": "https://embed-ssl.wistia.com/deliveries/f70314c74c7b0b7f51df8c530f451657c5ab4291.m3u8",
+      "sourceId": "qzhbrxie0c",
+      "type": "wistia",
+      "orderIdx": 276
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda74",
+      "title": "Complementary Rule",
+      "link": "https://embed-ssl.wistia.com/deliveries/1f32822466f78520bc573fe0400bfabd5ac3feb6.m3u8",
+      "sourceId": "kqpfw9emj2",
+      "type": "wistia",
+      "orderIdx": 277
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda75",
+      "title": "Addition Rule",
+      "link": "https://embed-ssl.wistia.com/deliveries/e4dfcc21810c009aa715ca163aa74a1bfe30041a.m3u8",
+      "sourceId": "h8k41w3vvp",
+      "type": "wistia",
+      "orderIdx": 278
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda76",
+      "title": "Multiplication Rule",
+      "link": "https://embed-ssl.wistia.com/deliveries/d8c3271f92709f225f97e7fbb1327d90d01dc7ce.m3u8",
+      "sourceId": "83djtjjdv6",
+      "type": "wistia",
+      "orderIdx": 279
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda77",
+      "title": "Solving Practice Problems",
+      "link": "https://embed-ssl.wistia.com/deliveries/caee923ed983417686317d0b99d111d98e2dc184.m3u8",
+      "sourceId": "2dvvxnfa4o",
+      "type": "wistia",
+      "orderIdx": 280
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda78",
+      "title": "Conditional Probability",
+      "link": "https://embed-ssl.wistia.com/deliveries/a3a9f2c768b7624f76ae208a4564112d92b5066e.m3u8",
+      "sourceId": "dkib564s1r",
+      "type": "wistia",
+      "orderIdx": 281
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda79",
+      "title": "Law of Total Probability",
+      "link": "https://embed-ssl.wistia.com/deliveries/31ed3657b2c3ec1db2180bfed6c859869da26bd3.m3u8",
+      "sourceId": "pm57f6vzv2",
+      "type": "wistia",
+      "orderIdx": 282
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda7a",
+      "title": "Bayes' Theorem",
+      "link": "https://embed-ssl.wistia.com/deliveries/96a55c52bd2c41bcc2ca5f585617f8d72c30822a.m3u8",
+      "sourceId": "guqdjig197",
+      "type": "wistia",
+      "orderIdx": 283
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda7b",
+      "title": "Solving Practice Problem",
+      "link": "https://embed-ssl.wistia.com/deliveries/af09431d41ec4edc3edd8818ee2d998ee1726b10.m3u8",
+      "sourceId": "0uslddrroc",
+      "type": "wistia",
+      "orderIdx": 284
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda7c",
+      "title": "Random Variables",
+      "link": "https://embed-ssl.wistia.com/deliveries/37faf8ec32ea3a4813c5f3f48d58de56b29d7bab.m3u8",
+      "sourceId": "g8z7zat626",
+      "type": "wistia",
+      "orderIdx": 285
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda7d",
+      "title": "Mean, Median & Mode",
+      "link": "https://embed-ssl.wistia.com/deliveries/fb4ffdc80c0d07a5ebb396620dabe2dfd067df26.m3u8",
+      "sourceId": "o1xnxuai7m",
+      "type": "wistia",
+      "orderIdx": 286
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda7e",
+      "title": "Variance & Standard Deviation",
+      "link": "https://embed-ssl.wistia.com/deliveries/75c5e102bc86a79c2040b40698fcb707ba2a2abb.m3u8",
+      "sourceId": "3tmawleeb0",
+      "type": "wistia",
+      "orderIdx": 287
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda7f",
+      "title": "Probability Distributions & its Types",
+      "link": "https://embed-ssl.wistia.com/deliveries/0745d637d70bbb162f3406275b472e22e2008ba9.m3u8",
+      "sourceId": "bo89msmd5k",
+      "type": "wistia",
+      "orderIdx": 288
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda80",
+      "title": "Binomial Distribution",
+      "link": "https://embed-ssl.wistia.com/deliveries/4bce27d02e28c82f427d29e5375c8d5263fda7b1.m3u8",
+      "sourceId": "a8d4e6c2gu",
+      "type": "wistia",
+      "orderIdx": 289
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda81",
+      "title": "Uniform Distribution",
+      "link": "https://embed-ssl.wistia.com/deliveries/d3c0856c73c4d5e69683c015660a5d7e777d426f.m3u8",
+      "sourceId": "9y2qlcbac2",
+      "type": "wistia",
+      "orderIdx": 290
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda82",
+      "title": "Normal Distribution",
+      "link": "https://embed-ssl.wistia.com/deliveries/e01ca89858b7c1aa3cafbbf6f11ab2ee1ab9d774.m3u8",
+      "sourceId": "ed49901v3y",
+      "type": "wistia",
+      "orderIdx": 291
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda83",
+      "title": "Central Limit Theorem",
+      "link": "https://embed-ssl.wistia.com/deliveries/d83624b099226b18dc6db567c35add5e6e6cf8bd.m3u8",
+      "sourceId": "73737ydpl4",
+      "type": "wistia",
+      "orderIdx": 292
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda87",
+      "title": "Introduction to Linear Algebra",
+      "link": "https://embed-ssl.wistia.com/deliveries/34d39d1b24e3bea1ee7137cd2ad5c229a6e3032c.m3u8",
+      "sourceId": "rk80unxzv2",
+      "type": "wistia",
+      "orderIdx": 293
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda88",
+      "title": "Straight Lines",
+      "link": "https://embed-ssl.wistia.com/deliveries/255f160a31d6f5e23b2f752b0fa1cab5524c03a1.m3u8",
+      "sourceId": "f4kfc9t6ul",
+      "type": "wistia",
+      "orderIdx": 294
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda89",
+      "title": "Distance between 2 Points",
+      "link": "https://embed-ssl.wistia.com/deliveries/334a9bbba0fc5551d70c435b2c7b7b5fd159bb0e.m3u8",
+      "sourceId": "ipqrjhmdas",
+      "type": "wistia",
+      "orderIdx": 295
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda8a",
+      "title": "Parallel & Perpendicular Lines",
+      "link": "https://embed-ssl.wistia.com/deliveries/65e9f353580b1d8ca70bd36c38a69425aee4ecf1.m3u8",
+      "sourceId": "ojs9wfb2wa",
+      "type": "wistia",
+      "orderIdx": 296
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda8b",
+      "title": "Distance between Parallel Lines",
+      "link": "https://embed-ssl.wistia.com/deliveries/847261fc0f4fbd5fefccdf65d8d13d45341070ee.m3u8",
+      "sourceId": "bspkggeup7",
+      "type": "wistia",
+      "orderIdx": 297
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda8c",
+      "title": "Practice Problem",
+      "link": "https://embed-ssl.wistia.com/deliveries/9ecc0bf44b5b3408e70bb37cc8e61fa9bfc4d309.m3u8",
+      "sourceId": "bvyhymkmfq",
+      "type": "wistia",
+      "orderIdx": 298
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda8d",
+      "title": "Vectors",
+      "link": "https://embed-ssl.wistia.com/deliveries/c5d083b00830e585120f2618f5368b22a7b0d183.m3u8",
+      "sourceId": "dzy41qzk6u",
+      "type": "wistia",
+      "orderIdx": 299
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda8e",
+      "title": "Vector Addition",
+      "link": "https://embed-ssl.wistia.com/deliveries/fc6cb19f9790c2c17893a6f477dec4067295cbec.m3u8",
+      "sourceId": "hodyf3it2c",
+      "type": "wistia",
+      "orderIdx": 300
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda8f",
+      "title": "Scalar Multiplication",
+      "link": "https://embed-ssl.wistia.com/deliveries/2368ef0a2d5ff208ad9a7f0af9d68b03b1700967.m3u8",
+      "sourceId": "jrgc0od12d",
+      "type": "wistia",
+      "orderIdx": 301
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda90",
+      "title": "Dot Product",
+      "link": "https://embed-ssl.wistia.com/deliveries/37037e69c0a7e9f72acef2654056db7d9d844109.m3u8",
+      "sourceId": "ivy3kgq23s",
+      "type": "wistia",
+      "orderIdx": 302
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda91",
+      "title": "Cross Product",
+      "link": "https://embed-ssl.wistia.com/deliveries/c940d196f2fefe732db60b04d44474f609eecc9d.m3u8",
+      "sourceId": "tofnbpjrvb",
+      "type": "wistia",
+      "orderIdx": 303
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda92",
+      "title": "Matrix",
+      "link": "https://embed-ssl.wistia.com/deliveries/3d9877673595dd18c6232ce71f9a86c8598349be.m3u8",
+      "sourceId": "o4zi0lkedn",
+      "type": "wistia",
+      "orderIdx": 304
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda93",
+      "title": "Operations on Matrices",
+      "link": "https://embed-ssl.wistia.com/deliveries/8a397ecd5bdcdae38ece467a194d59fceaa6baa4.m3u8",
+      "sourceId": "gm91ue1zyu",
+      "type": "wistia",
+      "orderIdx": 305
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda94",
+      "title": "Determinants",
+      "link": "https://embed-ssl.wistia.com/deliveries/94d947337741148402c5ecfbd0c48aa1c73e21de.m3u8",
+      "sourceId": "61mk4h9a2w",
+      "type": "wistia",
+      "orderIdx": 306
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda95",
+      "title": "Eigen Vectors & Eigen Values",
+      "link": "https://embed-ssl.wistia.com/deliveries/32ee8eda2daa8fb9631a48a419ca2b8ec4224c29.m3u8",
+      "sourceId": "b70zkpx5dl",
+      "type": "wistia",
+      "orderIdx": 307
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda96",
+      "title": "Calculus Introduction",
+      "link": "https://embed-ssl.wistia.com/deliveries/9afe6cf31386bc6886297bad4e661495e261ba7a.m3u8",
+      "sourceId": "jycobe27zg",
+      "type": "wistia",
+      "orderIdx": 308
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda97",
+      "title": "Functions",
+      "link": "https://embed-ssl.wistia.com/deliveries/d0e9cc2801f7c1dd3e47eca051d7ef5e626dc2fe.m3u8",
+      "sourceId": "plqq2czrkk",
+      "type": "wistia",
+      "orderIdx": 309
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda98",
+      "title": "Composite Functions",
+      "link": "https://embed-ssl.wistia.com/deliveries/fd0a661989cb598c221b1fe89adf9ccbbb9fdf49.m3u8",
+      "sourceId": "hhrnhm1g1s",
+      "type": "wistia",
+      "orderIdx": 310
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda99",
+      "title": "Functions: Scalar Multiplication & Addition",
+      "link": "https://embed-ssl.wistia.com/deliveries/bf95639bac35085461b302ea114c53d0dce3707b.m3u8",
+      "sourceId": "f4djgcsu78",
+      "type": "wistia",
+      "orderIdx": 311
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda9a",
+      "title": "Input: Scalar Multiplication & Addition",
+      "link": "https://embed-ssl.wistia.com/deliveries/156f5eeaffc78b0c8d7142f9e859b08da8b0914c.m3u8",
+      "sourceId": "9lqwemfxtb",
+      "type": "wistia",
+      "orderIdx": 312
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda9b",
+      "title": "Differentiation",
+      "link": "https://embed-ssl.wistia.com/deliveries/a5c5da1d920289a01ba433e34199f2ee74df310c.m3u8",
+      "sourceId": "ipj7k47qh5",
+      "type": "wistia",
+      "orderIdx": 313
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda9c",
+      "title": "Differentiation Rules",
+      "link": "https://embed-ssl.wistia.com/deliveries/9dd287f22779c2b7d83b5fcb3e05fca26d23b091.m3u8",
+      "sourceId": "a0xhfm1ody",
+      "type": "wistia",
+      "orderIdx": 314
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda9d",
+      "title": "Finding Minima / Maxima",
+      "link": "https://embed-ssl.wistia.com/deliveries/6b3dc7f2f58708731d0a55f855097fc005a8af10.m3u8",
+      "sourceId": "gs6c29o9yn",
+      "type": "wistia",
+      "orderIdx": 315
+    },
+    {
+      "id": "prime-2::69eb17e3e4e866bddd0cda9e",
+      "title": "Practice Problem",
+      "link": "https://embed-ssl.wistia.com/deliveries/7d014c169cfc597d8d28d4bcf3fa143937255d27.m3u8",
+      "sourceId": "kjnr01wzv4",
+      "type": "wistia",
+      "orderIdx": 316
+    },
+    {
+      "id": "prime-2::69eb17e4e4e866bddd0cdaa2",
+      "title": "Introduction to Machine Learning",
+      "link": "https://embed-ssl.wistia.com/deliveries/231aeca43413d015b2e91c50e9a994b69e160041.m3u8",
+      "sourceId": "qx5qawigg9",
+      "type": "wistia",
+      "orderIdx": 317
+    },
+    {
+      "id": "prime-2::69eb17e4e4e866bddd0cdaa3",
+      "title": "Types of ML (Supervised)",
+      "link": "https://embed-ssl.wistia.com/deliveries/ebec3ec6123b2d070fec33d97c96d1b09af0178e.m3u8",
+      "sourceId": "ib5b88gsqv",
+      "type": "wistia",
+      "orderIdx": 318
+    },
+    {
+      "id": "prime-2::69eb17e4e4e866bddd0cdaa4",
+      "title": "Types of ML (Unsupervised & RL)",
+      "link": "https://embed-ssl.wistia.com/deliveries/e1b265ee874e727af29492ac86b37dd47b1d4f4a.m3u8",
+      "sourceId": "wrj2evavqr",
+      "type": "wistia",
+      "orderIdx": 319
+    },
+    {
+      "id": "prime-2::69eb17e4e4e866bddd0cdaa5",
+      "title": "Supervised Machine Learning",
+      "link": "https://embed-ssl.wistia.com/deliveries/ce598ba33670fafbb5efaa8fded903ed608c2075.m3u8",
+      "sourceId": "3tgjmvprll",
+      "type": "wistia",
+      "orderIdx": 320
+    },
+    {
+      "id": "prime-2::69eb17e4e4e866bddd0cdaa6",
+      "title": "Regression & Classification",
+      "link": "https://embed-ssl.wistia.com/deliveries/42efabc2219bdc1594dc05b0dd4ac87e1c36f783.m3u8",
+      "sourceId": "lnjvopovck",
+      "type": "wistia",
+      "orderIdx": 321
+    },
+    {
+      "id": "prime-2::69eb17e4e4e866bddd0cdaa7",
+      "title": "Introduction to sklearn",
+      "link": "https://embed-ssl.wistia.com/deliveries/f0cf1df3ccb7deec823e91dea7fa13edd5ef94b8.m3u8",
+      "sourceId": "84e01xmr0x",
+      "type": "wistia",
+      "orderIdx": 322
+    },
+    {
+      "id": "prime-2::69eb17e4e4e866bddd0cdaa8",
+      "title": "Linear Regression (Algorithm 1)",
+      "link": "https://embed-ssl.wistia.com/deliveries/97b574fba9a2d3300c298962152893926927a4dc.m3u8",
+      "sourceId": "oz5drkelx5",
+      "type": "wistia",
+      "orderIdx": 323
+    },
+    {
+      "id": "prime-2::69eb17e4e4e866bddd0cdaa9",
+      "title": "What is Best Fit Line?",
+      "link": "https://embed-ssl.wistia.com/deliveries/796baa3a30cb8281ae24a956fee59ebd0e03b130.m3u8",
+      "sourceId": "6wgx3aesyc",
+      "type": "wistia",
+      "orderIdx": 324
+    },
+    {
+      "id": "prime-2::69eb17e4e4e866bddd0cdaaa",
+      "title": "What is Cost Function?",
+      "link": "https://embed-ssl.wistia.com/deliveries/cc4b36d9aefa1305aa7826ab14fa0695fc7bd701.m3u8",
+      "sourceId": "1xccx3m4aa",
+      "type": "wistia",
+      "orderIdx": 325
+    },
+    {
+      "id": "prime-2::69eb17e4e4e866bddd0cdaab",
+      "title": "Understanding Cost Function Curve",
+      "link": "https://embed-ssl.wistia.com/deliveries/12bda8aebc5ce992a216a3aaf7685b83370b15b4.m3u8",
+      "sourceId": "vxwuzbq36n",
+      "type": "wistia",
+      "orderIdx": 326
+    },
+    {
+      "id": "prime-2::69eb17e4e4e866bddd0cdaac",
+      "title": "What is Gradient Descent?",
+      "link": "https://embed-ssl.wistia.com/deliveries/ffafb5facd1d20be473f3ce8f1d2e1424c4f3e94.m3u8",
+      "sourceId": "t2s7o2a9jb",
+      "type": "wistia",
+      "orderIdx": 327
+    },
+    {
+      "id": "prime-2::69eb17e4e4e866bddd0cdaad",
+      "title": "Summary",
+      "link": "https://embed-ssl.wistia.com/deliveries/79cc84628629bf25e7f21337c48e2eeb65f78555.m3u8",
+      "sourceId": "ycupkq2ui6",
+      "type": "wistia",
+      "orderIdx": 328
+    },
+    {
+      "id": "prime-2::69eb17e4e4e866bddd0cdaae",
+      "title": "Linear Regression (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/908ffdda253dc3481bef4c6abe410cc8907f4357.m3u8",
+      "sourceId": "1no4kf84pq",
+      "type": "wistia",
+      "orderIdx": 329
+    },
+    {
+      "id": "prime-2::69eb17e4e4e866bddd0cdaaf",
+      "title": "Regression Evaluation Metrics",
+      "link": "https://embed-ssl.wistia.com/deliveries/f5dabb6edd91888cb4a67226baf50a0422a8d8ba.m3u8",
+      "sourceId": "9fri9qy0w4",
+      "type": "wistia",
+      "orderIdx": 330
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ed4",
+      "title": "Feature Engineering - Encoding",
+      "link": "https://embed-ssl.wistia.com/deliveries/008867054d606ebf4d659913b532f4c95f4048bb.m3u8",
+      "sourceId": "v9gutn2md7",
+      "type": "wistia",
+      "orderIdx": 331
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ed5",
+      "title": "Dummy Variable Trap",
+      "link": "https://embed-ssl.wistia.com/deliveries/5204d18dee1f25b5cb36c97c870ae560c7b72afd.m3u8",
+      "sourceId": "c10ef2yjv2",
+      "type": "wistia",
+      "orderIdx": 332
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ed6",
+      "title": "Other FE Techniques",
+      "link": "https://embed-ssl.wistia.com/deliveries/d9291a2f54c6ea520709e479e50f07788995979d.m3u8",
+      "sourceId": "ywlfhbnnmb",
+      "type": "wistia",
+      "orderIdx": 333
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ed7",
+      "title": "Overfitting",
+      "link": "https://embed-ssl.wistia.com/deliveries/a90fd23be3d789ed705b7da50ffd2133f9fe5d92.m3u8",
+      "sourceId": "s5e98o9alt",
+      "type": "wistia",
+      "orderIdx": 334
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ed8",
+      "title": "Underfitting",
+      "link": "https://embed-ssl.wistia.com/deliveries/8bb2c9c4a73c39ce96f54a5c88c43022af9ed6c3.m3u8",
+      "sourceId": "20t8yr3vxf",
+      "type": "wistia",
+      "orderIdx": 335
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ed9",
+      "title": "How to fix Underfit & Overfit?",
+      "link": "https://embed-ssl.wistia.com/deliveries/f59a47d0e3879b301b178c2a30b992d1f1292bed.m3u8",
+      "sourceId": "btdr90kjlk",
+      "type": "wistia",
+      "orderIdx": 336
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1eda",
+      "title": "Is Model underfitting or overfitting?",
+      "link": "https://embed-ssl.wistia.com/deliveries/09ceeffcedf5d9daa7c60827e4f9d852537f23df.m3u8",
+      "sourceId": "z3ak2qqujt",
+      "type": "wistia",
+      "orderIdx": 337
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1edb",
+      "title": "Regularization (Lasso Regression)",
+      "link": "https://embed-ssl.wistia.com/deliveries/3aa2569bf6f0c5f24d3cb9d5519d0837b73c38bd.m3u8",
+      "sourceId": "2kt6jfc5n2",
+      "type": "wistia",
+      "orderIdx": 338
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1edc",
+      "title": "Regularization (Ridge Regression)",
+      "link": "https://embed-ssl.wistia.com/deliveries/394bf824b72d79b2f5165ab0a6afbe5e7464e214.m3u8",
+      "sourceId": "92hbp3mhp7",
+      "type": "wistia",
+      "orderIdx": 339
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1edd",
+      "title": "Lasso Regression (Algorithm 2)",
+      "link": "https://embed-ssl.wistia.com/deliveries/e0edf5c6f08bc8c0586e19e91197fe4982cdcd4a.m3u8",
+      "sourceId": "gyxot195uy",
+      "type": "wistia",
+      "orderIdx": 340
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ede",
+      "title": "Using LassoCV",
+      "link": "https://embed-ssl.wistia.com/deliveries/b9cbdf292b5dff61dd17e5d04d3a3ddba6236ddc.m3u8",
+      "sourceId": "fthwzvo8ws",
+      "type": "wistia",
+      "orderIdx": 341
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1edf",
+      "title": "ElasticNet Overview",
+      "link": "https://embed-ssl.wistia.com/deliveries/a74709b71b2a96d8ba15bcaf76cc08e26a091321.m3u8",
+      "sourceId": "ck27i3kt5o",
+      "type": "wistia",
+      "orderIdx": 342
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ee0",
+      "title": "Logistic Regression (Algorithm 3)",
+      "link": "https://embed-ssl.wistia.com/deliveries/ce0ff9dacc7429743ce5ff27023da5645b2dbec1.m3u8",
+      "sourceId": "ixp54smrne",
+      "type": "wistia",
+      "orderIdx": 343
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ee1",
+      "title": "Logistic Regression (Cost Fnx)",
+      "link": "https://embed-ssl.wistia.com/deliveries/d6395e106068dfbaa5e2d7e754cc033e17f07bba.m3u8",
+      "sourceId": "49nn4vgjnv",
+      "type": "wistia",
+      "orderIdx": 344
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ee2",
+      "title": "Logistic Regression (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/a075f25c7e061e5b402d0b39edfd2f9427b35cb0.m3u8",
+      "sourceId": "1vi8awgyhp",
+      "type": "wistia",
+      "orderIdx": 345
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1eee",
+      "title": "Standardization & Normalization",
+      "link": "https://embed-ssl.wistia.com/deliveries/28728739e5ff82ca60cd03b7ed4506d02c5cb2b1.m3u8",
+      "sourceId": "8ymh30lmd0",
+      "type": "wistia",
+      "orderIdx": 346
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1eef",
+      "title": "Using StandardScaler",
+      "link": "https://embed-ssl.wistia.com/deliveries/b7d4347272ac6c5ea2191d5c5ecbcc5df0098139.m3u8",
+      "sourceId": "j0j1sqq4ci",
+      "type": "wistia",
+      "orderIdx": 347
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ef0",
+      "title": "Understanding Confusion Matrix",
+      "link": "https://embed-ssl.wistia.com/deliveries/60433c013a8ac96b28b62d42676032ca9d5c248f.m3u8",
+      "sourceId": "vnwbw9fzzf",
+      "type": "wistia",
+      "orderIdx": 348
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ef1",
+      "title": "Classification Evaluation Metrics",
+      "link": "https://embed-ssl.wistia.com/deliveries/fbff1dac4cc7772e9e3cd21d97e8892d9964fae0.m3u8",
+      "sourceId": "czzveqn2ib",
+      "type": "wistia",
+      "orderIdx": 349
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ef3",
+      "title": "Naive Bayes (Algorithm 4)",
+      "link": "https://embed-ssl.wistia.com/deliveries/6fa7bb4708f733f2b79c54147028d48214a57485.m3u8",
+      "sourceId": "obbr4kgv1o",
+      "type": "wistia",
+      "orderIdx": 350
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ef4",
+      "title": "Naive Bayes (Example)",
+      "link": "https://embed-ssl.wistia.com/deliveries/b26d21847df85beb737bb6c982066da1c5b88fc8.m3u8",
+      "sourceId": "ft9d2yg5j9",
+      "type": "wistia",
+      "orderIdx": 351
+    },
+    {
+      "id": "prime-2::69ff38712cbd250dd30f1ef5",
+      "title": "Types of Naive Bayes",
+      "link": "https://embed-ssl.wistia.com/deliveries/c022bee2f61f47eff1f2a4998e3449052eef2020.m3u8",
+      "sourceId": "oaa645eefd",
+      "type": "wistia",
+      "orderIdx": 352
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1ef6",
+      "title": "Naive Bayes (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/3705829e0720ba0cb46852515348d83d70864504.m3u8",
+      "sourceId": "2puqgnvdto",
+      "type": "wistia",
+      "orderIdx": 353
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1ef7",
+      "title": "kNN (Algorithm 5)",
+      "link": "https://embed-ssl.wistia.com/deliveries/572bc5be985e5353e74f15553515cb0fc9ebfede.m3u8",
+      "sourceId": "191yb8rvqm",
+      "type": "wistia",
+      "orderIdx": 354
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1ef8",
+      "title": "kNN (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/39cf189e45055f9f38701b842af2219d314731a4.m3u8",
+      "sourceId": "m3g22of8ab",
+      "type": "wistia",
+      "orderIdx": 355
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1ef9",
+      "title": "Limitations of kNN",
+      "link": "https://embed-ssl.wistia.com/deliveries/56db9ba71189a5c208b927ddec3d2554dcf195da.m3u8",
+      "sourceId": "4qmt8wcxr0",
+      "type": "wistia",
+      "orderIdx": 356
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1efb",
+      "title": "What is Validation Data?",
+      "link": "https://embed-ssl.wistia.com/deliveries/7294fc8edcacd996d5b6c49ceb38f7d02f21bf99.m3u8",
+      "sourceId": "ukeikil6ci",
+      "type": "wistia",
+      "orderIdx": 357
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1efc",
+      "title": "What is Cross Validation?",
+      "link": "https://embed-ssl.wistia.com/deliveries/98dbdacf23aa962d367026dfc1319f215ef37959.m3u8",
+      "sourceId": "vqwf45lkjb",
+      "type": "wistia",
+      "orderIdx": 358
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1efd",
+      "title": "CV for Hyperparameter Tuning",
+      "link": "https://embed-ssl.wistia.com/deliveries/4af22e69cf31d68d8775e386b5c8096a6dfd61c4.m3u8",
+      "sourceId": "jk3z8gk8q5",
+      "type": "wistia",
+      "orderIdx": 359
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1efe",
+      "title": "Pipeline in sklearn",
+      "link": "https://embed-ssl.wistia.com/deliveries/612418b2e67ed19ac7e064fe7524875a4a423541.m3u8",
+      "sourceId": "wwnk56e5ou",
+      "type": "wistia",
+      "orderIdx": 360
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f09",
+      "title": "Section Introduction",
+      "link": "https://embed-ssl.wistia.com/deliveries/90313431efca852091ac81bc5846a1993beeced8.m3u8",
+      "sourceId": "hgm58fhr7s",
+      "type": "wistia",
+      "orderIdx": 361
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f0a",
+      "title": "Linear Regression (with Gradient Descent)",
+      "link": "https://embed-ssl.wistia.com/deliveries/58f06e5f5830ea0a2b92821334c520dd019453cc.m3u8",
+      "sourceId": "wz6ocv510z",
+      "type": "wistia",
+      "orderIdx": 362
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f0b",
+      "title": "LR with GD (Step1)",
+      "link": "https://embed-ssl.wistia.com/deliveries/caa48e09b575c7822e202c32566d4caa5ddba953.m3u8",
+      "sourceId": "lvdohjm71p",
+      "type": "wistia",
+      "orderIdx": 363
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f0c",
+      "title": "LR with GD (Step2)",
+      "link": "https://embed-ssl.wistia.com/deliveries/b9a32f7fc9c78b1eb1d2f712943c58692489ef20.m3u8",
+      "sourceId": "p0avl4la0a",
+      "type": "wistia",
+      "orderIdx": 364
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f0d",
+      "title": "LR with GD (Step3)",
+      "link": "https://embed-ssl.wistia.com/deliveries/44afe06d23b90ce91ca524f218a2dac4fcad2a59.m3u8",
+      "sourceId": "bdwvf6zyx3",
+      "type": "wistia",
+      "orderIdx": 365
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f0e",
+      "title": "LR with GD (Step4)",
+      "link": "https://embed-ssl.wistia.com/deliveries/c80dc4a85ed8453876328358f537d790cdf59a89.m3u8",
+      "sourceId": "yaf10ptum1",
+      "type": "wistia",
+      "orderIdx": 366
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f0f",
+      "title": "Linear Regression (with OLS)",
+      "link": "https://embed-ssl.wistia.com/deliveries/c621be307362697b9129f0bf0b3f99c6d0d28cb0.m3u8",
+      "sourceId": "rz2bgr3jzk",
+      "type": "wistia",
+      "orderIdx": 367
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f10",
+      "title": "LR with Gradient Descent vs OLS",
+      "link": "https://embed-ssl.wistia.com/deliveries/5a29f680dc7be1798a4d367f2970ab8ddd1e21f4.m3u8",
+      "sourceId": "gzv16psz6r",
+      "type": "wistia",
+      "orderIdx": 368
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f11",
+      "title": "Logistic Regression (steps)",
+      "link": "https://embed-ssl.wistia.com/deliveries/e2c93c4ca51ce970729821eba9fc3c4bb365afe1.m3u8",
+      "sourceId": "lw182a7xqq",
+      "type": "wistia",
+      "orderIdx": 369
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f12",
+      "title": "Logistic Regression Implementation",
+      "link": "https://embed-ssl.wistia.com/deliveries/9461ac529310b37c185e90709672b65278b918ec.m3u8",
+      "sourceId": "bs2v1pa18g",
+      "type": "wistia",
+      "orderIdx": 370
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f13",
+      "title": "KNN Classifier (steps)",
+      "link": "https://embed-ssl.wistia.com/deliveries/93f7af8c41ea3de9c7bbe73bef4a905369629739.m3u8",
+      "sourceId": "v2ozhw7un5",
+      "type": "wistia",
+      "orderIdx": 371
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f14",
+      "title": "KNN Classifier Implementation",
+      "link": "https://embed-ssl.wistia.com/deliveries/5bbefaf93ef50293b0eb815a36c7e67ddd6ce3e2.m3u8",
+      "sourceId": "n7080ypnue",
+      "type": "wistia",
+      "orderIdx": 372
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f20",
+      "title": "Project Introduction",
+      "link": "https://embed-ssl.wistia.com/deliveries/08478774c709286abb5ca8c1061f93c0ef5b84df.m3u8",
+      "sourceId": "7hc0guvyds",
+      "type": "wistia",
+      "orderIdx": 373
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f21",
+      "title": "Handle Missing Data",
+      "link": "https://embed-ssl.wistia.com/deliveries/9db0c5ab68035c79df4aca927106699b4337158f.m3u8",
+      "sourceId": "dua0el30tw",
+      "type": "wistia",
+      "orderIdx": 374
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f22",
+      "title": "Exploratory Data Analysis (EDA)",
+      "link": "https://embed-ssl.wistia.com/deliveries/038053cdab4e20a1729a8ad153cf24b7d1e40102.m3u8",
+      "sourceId": "jd8sszc6nl",
+      "type": "wistia",
+      "orderIdx": 375
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f23",
+      "title": "Feature Encoding",
+      "link": "https://embed-ssl.wistia.com/deliveries/95793ccb0f3d0fe91b41719480ec0a4cde29f433.m3u8",
+      "sourceId": "0kluem08lj",
+      "type": "wistia",
+      "orderIdx": 376
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f24",
+      "title": "Correlation Heatmap",
+      "link": "https://embed-ssl.wistia.com/deliveries/b48b8579c5702d35ce9581e3bf92ae701aee1118.m3u8",
+      "sourceId": "qjj8ui5xgy",
+      "type": "wistia",
+      "orderIdx": 377
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f25",
+      "title": "Feature Scaling",
+      "link": "https://embed-ssl.wistia.com/deliveries/24d0e6c5e04692115aec4273303b898f02a8446b.m3u8",
+      "sourceId": "a79h4f5qbv",
+      "type": "wistia",
+      "orderIdx": 378
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f26",
+      "title": "Model Training & Evaluation",
+      "link": "https://embed-ssl.wistia.com/deliveries/d3196deb4ec354565a51e6de69b02cd5f827032e.m3u8",
+      "sourceId": "4n7s7w0az9",
+      "type": "wistia",
+      "orderIdx": 379
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f27",
+      "title": "Feature Engineering to Improve Model",
+      "link": "https://embed-ssl.wistia.com/deliveries/84a445f9a4c89c3e7c13aa2a1585175edfd7c78c.m3u8",
+      "sourceId": "1zkx97l0d3",
+      "type": "wistia",
+      "orderIdx": 380
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f28",
+      "title": "Important Pointers",
+      "link": "https://embed-ssl.wistia.com/deliveries/a953b271d67e0b6355a7cb57e95ee14fc0b403cd.m3u8",
+      "sourceId": "8hv8scmoxu",
+      "type": "wistia",
+      "orderIdx": 381
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f2c",
+      "title": "Introduction to Decision Trees",
+      "link": "https://embed-ssl.wistia.com/deliveries/33be8bb2b141aeaf3ea82b2446046e3c5c9ca26b.m3u8",
+      "sourceId": "o8yvrua14l",
+      "type": "wistia",
+      "orderIdx": 382
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f2d",
+      "title": "Decision Tree Classifier",
+      "link": "https://embed-ssl.wistia.com/deliveries/2f8d0f5096fa7857db99acb70232cdfbeb3853d6.m3u8",
+      "sourceId": "sdjj1yalzy",
+      "type": "wistia",
+      "orderIdx": 383
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f2e",
+      "title": "Entropy (Impurity Metric)",
+      "link": "https://embed-ssl.wistia.com/deliveries/6fab5c368d3ab8b738ff422e41dcdb1898ba3bb5.m3u8",
+      "sourceId": "9q36cvjwp8",
+      "type": "wistia",
+      "orderIdx": 384
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f2f",
+      "title": "Gini Impurity",
+      "link": "https://embed-ssl.wistia.com/deliveries/fa29f4fa0d407db63f7c06193f321bce387722ca.m3u8",
+      "sourceId": "o1gtb5w5ug",
+      "type": "wistia",
+      "orderIdx": 385
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f30",
+      "title": "Entropy v/s Gini Impurity",
+      "link": "https://embed-ssl.wistia.com/deliveries/d86e68807ee0fe2ed6902a0ace18c7847790005c.m3u8",
+      "sourceId": "ec7185e5fg",
+      "type": "wistia",
+      "orderIdx": 386
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f31",
+      "title": "Information Gain",
+      "link": "https://embed-ssl.wistia.com/deliveries/bbd18480b844f7be457305c1b88dc630e5f7d375.m3u8",
+      "sourceId": "j27d1kb9fr",
+      "type": "wistia",
+      "orderIdx": 387
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f32",
+      "title": "Pruning Decision Trees",
+      "link": "https://embed-ssl.wistia.com/deliveries/79f3edfcd65149ac4ba8aba7fe3178a66d7b364b.m3u8",
+      "sourceId": "m5u7dong85",
+      "type": "wistia",
+      "orderIdx": 388
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f33",
+      "title": "Common Pruning Rules",
+      "link": "https://embed-ssl.wistia.com/deliveries/49052395d7aa813ffc60ff289bdaf3464aa44402.m3u8",
+      "sourceId": "hlvh5n687m",
+      "type": "wistia",
+      "orderIdx": 389
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f34",
+      "title": "Decision Tree Classifier (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/1279a51d1ecef144fc09ea70669dd0e2a506c5d2.m3u8",
+      "sourceId": "h3c73j4bjq",
+      "type": "wistia",
+      "orderIdx": 390
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f35",
+      "title": "Pre-Pruning Implementation",
+      "link": "https://embed-ssl.wistia.com/deliveries/ce41c9f872442f80ab637424a823b8ff6fa74064.m3u8",
+      "sourceId": "8szeizbmul",
+      "type": "wistia",
+      "orderIdx": 391
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f36",
+      "title": "Post-Pruning Implementation",
+      "link": "https://embed-ssl.wistia.com/deliveries/ab099455041530391bbb402305d4f934cd097996.m3u8",
+      "sourceId": "y9ltrbihma",
+      "type": "wistia",
+      "orderIdx": 392
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f37",
+      "title": "Decision Tree Regressor",
+      "link": "https://embed-ssl.wistia.com/deliveries/50b3985aff6b24d37d7916cae70af068dc92e24f.m3u8",
+      "sourceId": "knqz0s7ay1",
+      "type": "wistia",
+      "orderIdx": 393
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f38",
+      "title": "Variance Reduction",
+      "link": "https://embed-ssl.wistia.com/deliveries/1acfd3da13de231d6c31f99b1cf1e5a9267f348b.m3u8",
+      "sourceId": "3he706powi",
+      "type": "wistia",
+      "orderIdx": 394
+    },
+    {
+      "id": "prime-2::69ff38722cbd250dd30f1f39",
+      "title": "Decision Tree Regressor (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/135c0a41f0580f53eebd33ab08a289162d55d556.m3u8",
+      "sourceId": "fgq26hp73i",
+      "type": "wistia",
+      "orderIdx": 395
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f44",
+      "title": "Introduction to SVM",
+      "link": "https://embed-ssl.wistia.com/deliveries/ed2dc7a07817adfe3d391ce142216dbb5435ff63.m3u8",
+      "sourceId": "ww0kmze2fq",
+      "type": "wistia",
+      "orderIdx": 396
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f45",
+      "title": "SVM Classifier (Intuition)",
+      "link": "https://embed-ssl.wistia.com/deliveries/cb54d0af3c6c1e13a2d8fb35043107d3d0a3f0d7.m3u8",
+      "sourceId": "70hxg2wpce",
+      "type": "wistia",
+      "orderIdx": 397
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f46",
+      "title": "Classification Hyperparameters",
+      "link": "https://embed-ssl.wistia.com/deliveries/07903c0286e186a8a76a2596f6068801c3cd7a4c.m3u8",
+      "sourceId": "h6y10ka0xn",
+      "type": "wistia",
+      "orderIdx": 398
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f47",
+      "title": "Kernel in SVM",
+      "link": "https://embed-ssl.wistia.com/deliveries/8a32be3e20d5fddc60a9c3e2ef8e028ba6308005.m3u8",
+      "sourceId": "5lwz14f5as",
+      "type": "wistia",
+      "orderIdx": 399
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f48",
+      "title": "Common Kernel Types",
+      "link": "https://embed-ssl.wistia.com/deliveries/569473685620bffa272f164cdfe88863a2fda6cf.m3u8",
+      "sourceId": "hbe9rdd9dz",
+      "type": "wistia",
+      "orderIdx": 400
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f4a",
+      "title": "SVM Classifier (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/5b50d865879541e339d5d5e6abd36a17d13f290f.m3u8",
+      "sourceId": "t3o4dktcnj",
+      "type": "wistia",
+      "orderIdx": 401
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f4b",
+      "title": "SVM Regressor (Intuition)",
+      "link": "https://embed-ssl.wistia.com/deliveries/df8ff73b907bb7eccd9ca3310baa83e291f886b2.m3u8",
+      "sourceId": "ricepg2agr",
+      "type": "wistia",
+      "orderIdx": 402
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f4c",
+      "title": "SVM Regressor (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/519477e1010e0679a1c16801f890f56fe5b86fe2.m3u8",
+      "sourceId": "tjpqa15cgb",
+      "type": "wistia",
+      "orderIdx": 403
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f4d",
+      "title": "GridSearchCV for Hyperparameters",
+      "link": "https://embed-ssl.wistia.com/deliveries/949a3e79d7597be6b768279d9316c5e857b8dc26.m3u8",
+      "sourceId": "du9gzeozzl",
+      "type": "wistia",
+      "orderIdx": 404
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f4e",
+      "title": "LinearSVR v/s SVR",
+      "link": "https://embed-ssl.wistia.com/deliveries/90450dcb659134f5d817dac0b7102b623b7bc538.m3u8",
+      "sourceId": "jdcwr97pjy",
+      "type": "wistia",
+      "orderIdx": 405
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f52",
+      "title": "Ensemble Learning",
+      "link": "https://embed-ssl.wistia.com/deliveries/456353c82639eaa54abd3e6e704e541a65010c50.m3u8",
+      "sourceId": "m8ec7v88ex",
+      "type": "wistia",
+      "orderIdx": 406
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f53",
+      "title": "What is Bagging?",
+      "link": "https://embed-ssl.wistia.com/deliveries/52ce8664e2392f65236f6d0b371ec1175bcda593.m3u8",
+      "sourceId": "rr773smbql",
+      "type": "wistia",
+      "orderIdx": 407
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f54",
+      "title": "What is Boosting?",
+      "link": "https://embed-ssl.wistia.com/deliveries/5dc688dc6fd882a72f8190672fd0c12bf7f6dba8.m3u8",
+      "sourceId": "04z3clacya",
+      "type": "wistia",
+      "orderIdx": 408
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f55",
+      "title": "Random Forest",
+      "link": "https://embed-ssl.wistia.com/deliveries/6a9b65cfb3be1164a102ce10be0ec75c6c369811.m3u8",
+      "sourceId": "aj60xvxxny",
+      "type": "wistia",
+      "orderIdx": 409
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f56",
+      "title": "Out Of Bag (OOB)",
+      "link": "https://embed-ssl.wistia.com/deliveries/91400c58156e41f59ad609419fc1849b7bd17a41.m3u8",
+      "sourceId": "7zntambr4g",
+      "type": "wistia",
+      "orderIdx": 410
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f57",
+      "title": "Random Forest (Implementation)",
+      "link": "https://embed-ssl.wistia.com/deliveries/34787a6704a72bc669b3f1e137a43174480eb3c0.m3u8",
+      "sourceId": "6n1ov4ab34",
+      "type": "wistia",
+      "orderIdx": 411
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f58",
+      "title": "Decision Tree v/s Random Forest",
+      "link": "https://embed-ssl.wistia.com/deliveries/e4fcbadaa60d2fb31422cdeb8b4e8ed04c873b3f.m3u8",
+      "sourceId": "gdyzzo8oa1",
+      "type": "wistia",
+      "orderIdx": 412
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f59",
+      "title": "Bagging Classifier & Regressor",
+      "link": "https://embed-ssl.wistia.com/deliveries/da9ec56fe5cc474126538cc534ca91e9801c2e97.m3u8",
+      "sourceId": "qekozq0j64",
+      "type": "wistia",
+      "orderIdx": 413
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f5d",
+      "title": "Gradient Boosting Regressor",
+      "link": "https://embed-ssl.wistia.com/deliveries/0204c3b47d6de115c90fdfa9de92c79ea3601e90.m3u8",
+      "sourceId": "ox5beo1o19",
+      "type": "wistia",
+      "orderIdx": 414
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f5e",
+      "title": "GB Classifier (Intuition)",
+      "link": "https://embed-ssl.wistia.com/deliveries/abab97b63c53ba8337ccc7ad1fe8b8818bab7add.m3u8",
+      "sourceId": "c1ogo9ovva",
+      "type": "wistia",
+      "orderIdx": 415
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f5f",
+      "title": "GB Regressor (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/8989034509ec3bf9ce35a4b8a7692bc1034a08e5.m3u8",
+      "sourceId": "sv1mtisd7v",
+      "type": "wistia",
+      "orderIdx": 416
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f60",
+      "title": "GB Classifier (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/22517d723a628164065c954505ac3647e55ee148.m3u8",
+      "sourceId": "178nlu5e9a",
+      "type": "wistia",
+      "orderIdx": 417
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f61",
+      "title": "AdaBoost (Intuition)",
+      "link": "https://embed-ssl.wistia.com/deliveries/11306acdfb81ba2860979b6812e0b234ab83eb38.m3u8",
+      "sourceId": "n54m144938",
+      "type": "wistia",
+      "orderIdx": 418
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f62",
+      "title": "AdaBoost (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/f5f70ed311ad11b0a6440b22a3d5eed25a02d843.m3u8",
+      "sourceId": "w9b3u7y5sp",
+      "type": "wistia",
+      "orderIdx": 419
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f63",
+      "title": "Other Boosting Algorithms",
+      "link": "https://embed-ssl.wistia.com/deliveries/2049188fa6721a983e54b54659e8343f16469009.m3u8",
+      "sourceId": "cpkjznj54b",
+      "type": "wistia",
+      "orderIdx": 420
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f64",
+      "title": "XGBoost Code",
+      "link": "https://embed-ssl.wistia.com/deliveries/2e0a7b705279ace64e0d006d04a403960280fc3f.m3u8",
+      "sourceId": "r2v7gvtzna",
+      "type": "wistia",
+      "orderIdx": 421
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f65",
+      "title": "Homogenous v/s Heterogenous Ensemble",
+      "link": "https://embed-ssl.wistia.com/deliveries/8148120c5d033aaae7df5b69412ae71b9fc8ef1f.m3u8",
+      "sourceId": "85bf7iwtk9",
+      "type": "wistia",
+      "orderIdx": 422
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f66",
+      "title": "Voting (Logic)",
+      "link": "https://embed-ssl.wistia.com/deliveries/a0d41b82305d501c532f7ed294681c60076a5415.m3u8",
+      "sourceId": "qf6spiilgo",
+      "type": "wistia",
+      "orderIdx": 423
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f67",
+      "title": "Voting (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/8bbf74da3dcb3dc7cdbc1298a385a56a02b09927.m3u8",
+      "sourceId": "lghig3ixqk",
+      "type": "wistia",
+      "orderIdx": 424
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f68",
+      "title": "Stacking (Logic)",
+      "link": "https://embed-ssl.wistia.com/deliveries/f50ad7a5fa5e89c03d6b1de51e6f5009d4173afb.m3u8",
+      "sourceId": "q6br81tu65",
+      "type": "wistia",
+      "orderIdx": 425
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f69",
+      "title": "What is Blending?",
+      "link": "https://embed-ssl.wistia.com/deliveries/bdbc32b3b532819b39d0c6fb82a276f2aa4afd93.m3u8",
+      "sourceId": "n9j4iw6kw0",
+      "type": "wistia",
+      "orderIdx": 426
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f6a",
+      "title": "Stacking (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/8356a3cd412f06503326ca32479542b2f7f1eca7.m3u8",
+      "sourceId": "ojyceuwmle",
+      "type": "wistia",
+      "orderIdx": 427
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f75",
+      "title": "Introduction to Unsupervised ML",
+      "link": "https://embed-ssl.wistia.com/deliveries/7c6421e82ab66ef1695a7b6e10bf9860c735a28f.m3u8",
+      "sourceId": "7apla1v43v",
+      "type": "wistia",
+      "orderIdx": 428
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f76",
+      "title": "What is Clustering?",
+      "link": "https://embed-ssl.wistia.com/deliveries/cf50624f32af8817b459b9cc9239bfc6e58d3bd3.m3u8",
+      "sourceId": "z7omgscajv",
+      "type": "wistia",
+      "orderIdx": 429
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f77",
+      "title": "K-Means Clustering",
+      "link": "https://embed-ssl.wistia.com/deliveries/92c7070828b43e1955c42fbc53061de4642fd703.m3u8",
+      "sourceId": "z1ak7y79q8",
+      "type": "wistia",
+      "orderIdx": 430
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f78",
+      "title": "Elbow Method for K",
+      "link": "https://embed-ssl.wistia.com/deliveries/64df012e75b9ed006b7c8a838cab875b04b537d6.m3u8",
+      "sourceId": "39qrtlc8rf",
+      "type": "wistia",
+      "orderIdx": 431
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f79",
+      "title": "Silhouette Score for K",
+      "link": "https://embed-ssl.wistia.com/deliveries/962c15e98de24aadb67370c278c157826a02d786.m3u8",
+      "sourceId": "m88nbdfmeq",
+      "type": "wistia",
+      "orderIdx": 432
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f7a",
+      "title": "Random Initialization Trap",
+      "link": "https://embed-ssl.wistia.com/deliveries/324093cf28427c9ec5f2ba2667439927325d4afe.m3u8",
+      "sourceId": "qb3dx4z2xn",
+      "type": "wistia",
+      "orderIdx": 433
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f7b",
+      "title": "K-Means (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/ff850019d0fd1c1f765470ce1c7c0086fc0140f5.m3u8",
+      "sourceId": "auijq2w1ms",
+      "type": "wistia",
+      "orderIdx": 434
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f7c",
+      "title": "Choosing K (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/ead32c6494fda390803efb0b1dce4b31dffdca06.m3u8",
+      "sourceId": "x29s8zfnqs",
+      "type": "wistia",
+      "orderIdx": 435
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f7d",
+      "title": "K-Means for Iris Dataset",
+      "link": "https://embed-ssl.wistia.com/deliveries/2a5b27596eb16ed74f4007acb6a6980574d7cb81.m3u8",
+      "sourceId": "g9pa9f06sy",
+      "type": "wistia",
+      "orderIdx": 436
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f7e",
+      "title": "Hierarchical Clustering",
+      "link": "https://embed-ssl.wistia.com/deliveries/68a3edc984f4f6207c980697e433866eea1058c7.m3u8",
+      "sourceId": "hkohjelki0",
+      "type": "wistia",
+      "orderIdx": 437
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f7f",
+      "title": "What is Dendrogram?",
+      "link": "https://embed-ssl.wistia.com/deliveries/915e8f97240342632e22adb5b69b3f9d7643530b.m3u8",
+      "sourceId": "qq1ukf380k",
+      "type": "wistia",
+      "orderIdx": 438
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f80",
+      "title": "Hierarchical Clustering (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/8862050441b7525773ceb0148e647dc22a1f02ab.m3u8",
+      "sourceId": "cjr477nkg4",
+      "type": "wistia",
+      "orderIdx": 439
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f81",
+      "title": "K-Means v/s Hierarchical Clustering",
+      "link": "https://embed-ssl.wistia.com/deliveries/9fc23b4ea50e4d083d4d432fe20ec62728d1ea69.m3u8",
+      "sourceId": "tglgiwu9my",
+      "type": "wistia",
+      "orderIdx": 440
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f82",
+      "title": "DBSCAN Clustering",
+      "link": "https://embed-ssl.wistia.com/deliveries/0484698888bcebbf322457d520bfa408e116f2e3.m3u8",
+      "sourceId": "3py9cjkj6o",
+      "type": "wistia",
+      "orderIdx": 441
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f83",
+      "title": "DBSCAN (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/bf87ea54f5a9c92354b1f9c09c9b896e53e328d7.m3u8",
+      "sourceId": "izltc22164",
+      "type": "wistia",
+      "orderIdx": 442
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f84",
+      "title": "K-Means v/s DBSCAN (non-linear)",
+      "link": "https://embed-ssl.wistia.com/deliveries/cea0e3d9615f5956e69da492e2e90b73f81fb54e.m3u8",
+      "sourceId": "egumforhhp",
+      "type": "wistia",
+      "orderIdx": 443
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f88",
+      "title": "Dimensionality Reduction",
+      "link": "https://embed-ssl.wistia.com/deliveries/14999a4e43317b20b99b35c0ad5ffe40b0fc3f8b.m3u8",
+      "sourceId": "ngs1gp2zay",
+      "type": "wistia",
+      "orderIdx": 444
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f89",
+      "title": "What is PCA?",
+      "link": "https://embed-ssl.wistia.com/deliveries/3c170137902aaf0193012514698f313a381c49f5.m3u8",
+      "sourceId": "trdykzn091",
+      "type": "wistia",
+      "orderIdx": 445
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f8a",
+      "title": "PCA (Step by Step)",
+      "link": "https://embed-ssl.wistia.com/deliveries/f20ea95f83c205b8dee307743e45cd2aa4ec8ee5.m3u8",
+      "sourceId": "ja51y9zn9c",
+      "type": "wistia",
+      "orderIdx": 446
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f8b",
+      "title": "PCA (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/1097885350b7f2b6c17a71d3f16452970c37e895.m3u8",
+      "sourceId": "799tk9nhc8",
+      "type": "wistia",
+      "orderIdx": 447
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f8c",
+      "title": "What is Anomaly Detection?",
+      "link": "https://embed-ssl.wistia.com/deliveries/23e69af9b510deab848cfa2e5b685eb6482914e2.m3u8",
+      "sourceId": "mt7p7ueuq4",
+      "type": "wistia",
+      "orderIdx": 448
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f8d",
+      "title": "DBSCAN for Anomalies",
+      "link": "https://embed-ssl.wistia.com/deliveries/8fc07d4e27b4ce98fe91a1c5419b1769727b9e8d.m3u8",
+      "sourceId": "jc4t3u0xsa",
+      "type": "wistia",
+      "orderIdx": 449
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f8e",
+      "title": "DBSCAN for Anomalies (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/65b1489ea4b85219f9301b5a2c5f6d54e0e65bd5.m3u8",
+      "sourceId": "rb1abj5tml",
+      "type": "wistia",
+      "orderIdx": 450
+    },
+    {
+      "id": "prime-2::69ff38732cbd250dd30f1f8f",
+      "title": "Isolation Forest for Anomalies",
+      "link": "https://embed-ssl.wistia.com/deliveries/3be01a731539983e69530417d78e97c86af56940.m3u8",
+      "sourceId": "38f5igvrng",
+      "type": "wistia",
+      "orderIdx": 451
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1f90",
+      "title": "Isolation Forest for Anomalies (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/42eb258f705b6467a0d326e09dfa67c8ec826bd1.m3u8",
+      "sourceId": "3minwrgsjg",
+      "type": "wistia",
+      "orderIdx": 452
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1f91",
+      "title": "LOF for Anomalies",
+      "link": "https://embed-ssl.wistia.com/deliveries/ab7c9a58bbe41daa3df354a52e09da757f7cbb3b.m3u8",
+      "sourceId": "snyy5fy3i0",
+      "type": "wistia",
+      "orderIdx": 453
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1f92",
+      "title": "LOF for Anomalies (Code)",
+      "link": "https://embed-ssl.wistia.com/deliveries/0366f71cb0ef887432f2224e02b97baae944eb46.m3u8",
+      "sourceId": "3nwwr75rp0",
+      "type": "wistia",
+      "orderIdx": 454
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1f9a",
+      "title": "Project Introduction",
+      "link": "https://embed-ssl.wistia.com/deliveries/863db3ac4ec3886aff1c96236f6efa617dc21575.m3u8",
+      "sourceId": "i0wlgccsm6",
+      "type": "wistia",
+      "orderIdx": 455
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1f9b",
+      "title": "Handle Missing Data",
+      "link": "https://embed-ssl.wistia.com/deliveries/a44bc9ca53d435c50f32253e7bc380d383775178.m3u8",
+      "sourceId": "ewlorvzygx",
+      "type": "wistia",
+      "orderIdx": 456
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1f9c",
+      "title": "Feature Engineering",
+      "link": "https://embed-ssl.wistia.com/deliveries/8064702b29783240dfc56083562623a2bdb9c78b.m3u8",
+      "sourceId": "pzffeer3sj",
+      "type": "wistia",
+      "orderIdx": 457
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1f9d",
+      "title": "Drop Columns",
+      "link": "https://embed-ssl.wistia.com/deliveries/d45fba93fb492684ceb16d0189f68125520e3bae.m3u8",
+      "sourceId": "s2nn1bmoq9",
+      "type": "wistia",
+      "orderIdx": 458
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1f9e",
+      "title": "Handle Outliers",
+      "link": "https://embed-ssl.wistia.com/deliveries/94c62e48fffc1ef5a399f50829dc5b42914169d8.m3u8",
+      "sourceId": "7wb1r8zc8p",
+      "type": "wistia",
+      "orderIdx": 459
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1f9f",
+      "title": "HeatMap of Features",
+      "link": "https://embed-ssl.wistia.com/deliveries/5c6afa52bec3c3f0c3070aa43afdee10c800966e.m3u8",
+      "sourceId": "1q9n9cm7jo",
+      "type": "wistia",
+      "orderIdx": 460
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fa0",
+      "title": "Feature Encoding & Scaling",
+      "link": "https://embed-ssl.wistia.com/deliveries/d2537dfab39d893467462add641cb046a6ce0bf0.m3u8",
+      "sourceId": "3h7giu3en9",
+      "type": "wistia",
+      "orderIdx": 461
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fa1",
+      "title": "Visualizing our Data",
+      "link": "https://embed-ssl.wistia.com/deliveries/c656e5e0cf4abd79dc7c0de7270e867b77c49be1.m3u8",
+      "sourceId": "5zosu26xlj",
+      "type": "wistia",
+      "orderIdx": 462
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fa2",
+      "title": "Choose K (Elbow & Silhouette Score)",
+      "link": "https://embed-ssl.wistia.com/deliveries/3f86145aeb1b06bf03d81c309c33ca8adf1cceec.m3u8",
+      "sourceId": "96lacl01qh",
+      "type": "wistia",
+      "orderIdx": 463
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fa3",
+      "title": "Clustering or Segmentation",
+      "link": "https://embed-ssl.wistia.com/deliveries/93b3ada4baf3a1362c3346f13eb9d4d4140af25b.m3u8",
+      "sourceId": "25md1d76aw",
+      "type": "wistia",
+      "orderIdx": 464
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fa4",
+      "title": "Characterization of Clusters",
+      "link": "https://embed-ssl.wistia.com/deliveries/dca107a1ddf5b3b9db61363b06d0af534e8368f0.m3u8",
+      "sourceId": "ar01oxy80y",
+      "type": "wistia",
+      "orderIdx": 465
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fa5",
+      "title": "Cluster Summary for Profiling",
+      "link": "https://embed-ssl.wistia.com/deliveries/300c4a1f70e74cfdb4b6a6415e21b122f1421b25.m3u8",
+      "sourceId": "b0u5dojxnm",
+      "type": "wistia",
+      "orderIdx": 466
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fa9",
+      "title": "What will we learn?",
+      "link": "https://embed-ssl.wistia.com/deliveries/43658c0bf7bdf2654953defd941a70af893e894f.m3u8",
+      "sourceId": "7xf0u3zl7k",
+      "type": "wistia",
+      "orderIdx": 467
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1faa",
+      "title": "What is the Terminal?",
+      "link": "https://embed-ssl.wistia.com/deliveries/7dba2e5026b09a5c932b4f7c9ef8a6af2ac1c25b.m3u8",
+      "sourceId": "hhwkkihi76",
+      "type": "wistia",
+      "orderIdx": 468
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fab",
+      "title": "Different Terms related to Terminal",
+      "link": "https://embed-ssl.wistia.com/deliveries/2e6379252dae86e5f369c0a6c28ed4e55d334b47.m3u8",
+      "sourceId": "itgmyln34d",
+      "type": "wistia",
+      "orderIdx": 469
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fac",
+      "title": "(Window Users Only) Installing Git Bash",
+      "link": "https://embed-ssl.wistia.com/deliveries/c20c44f436b8741b257fa3d50a70020d24c0cf0d.m3u8",
+      "sourceId": "8goln6fxvk",
+      "type": "wistia",
+      "orderIdx": 470
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fad",
+      "title": "Basic Commands",
+      "link": "https://embed-ssl.wistia.com/deliveries/f3c9e5073f7592130ee295d6e9986716a89d3618.m3u8",
+      "sourceId": "95bg1wvgrm",
+      "type": "wistia",
+      "orderIdx": 471
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fae",
+      "title": "Navigation Commands",
+      "link": "https://embed-ssl.wistia.com/deliveries/18a7dfae8b43567666fa612b561820402fc52a24.m3u8",
+      "sourceId": "2emioio2l5",
+      "type": "wistia",
+      "orderIdx": 472
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1faf",
+      "title": "Paths in Navigation",
+      "link": "https://embed-ssl.wistia.com/deliveries/5b43c32532992b59f30336b2276373bfdc4ef418.m3u8",
+      "sourceId": "ejxy5woamy",
+      "type": "wistia",
+      "orderIdx": 473
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fb0",
+      "title": "Making Directories",
+      "link": "https://embed-ssl.wistia.com/deliveries/9c0ec7369aaa3d5480d64453c6f5dfd8330a5b7b.m3u8",
+      "sourceId": "95qsszk4ws",
+      "type": "wistia",
+      "orderIdx": 474
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fb1",
+      "title": "What are Flags?",
+      "link": "https://embed-ssl.wistia.com/deliveries/6d8a39806298e77249cede4ff7313155317924c2.m3u8",
+      "sourceId": "h99l81nejh",
+      "type": "wistia",
+      "orderIdx": 475
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fb2",
+      "title": "Touch Command",
+      "link": "https://embed-ssl.wistia.com/deliveries/c00352f361d5444bf29103b4c681ba08c301eda4.m3u8",
+      "sourceId": "mm9r0z17x4",
+      "type": "wistia",
+      "orderIdx": 476
+    },
+    {
+      "id": "prime-2::69ff38742cbd250dd30f1fb3",
+      "title": "Deleting Files & Folders",
+      "link": "https://embed-ssl.wistia.com/deliveries/d464fbcde49fe292f2eb31bff5d387d40ff8ced2.m3u8",
+      "sourceId": "m5rv1i59u8",
+      "type": "wistia",
+      "orderIdx": 477
+    }
+  ],
+  "notes": [
+    {
+      "id": "prime-2::n0",
+      "title": "Problem Statement",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/SmartCart Clustering System.pdf",
+      "orderIdx": 0
+    },
+    {
+      "id": "prime-2::n1",
+      "title": "NovaGen Labs Project",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Supervised ML _Assignment5.pdf",
+      "orderIdx": 1
+    },
+    {
+      "id": "prime-2::n2",
+      "title": "Common SVM Kernels",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/SVM Kernels.pdf",
+      "orderIdx": 2
+    },
+    {
+      "id": "prime-2::n3",
+      "title": "ShopSmart E-commerce Project",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Supervised ML _Assignment4.pdf",
+      "orderIdx": 3
+    },
+    {
+      "id": "prime-2::n4",
+      "title": "Problem Statement",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/CreditWise Loan System.pdf",
+      "orderIdx": 4
+    },
+    {
+      "id": "prime-2::n5",
+      "title": "Assignment Problem",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Scratch Implementation_Assignment.pdf",
+      "orderIdx": 5
+    },
+    {
+      "id": "prime-2::n6",
+      "title": "Assignment Project (Iris Flower)",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Supervised ML _Assignment3.pdf",
+      "orderIdx": 6
+    },
+    {
+      "id": "prime-2::n7",
+      "title": "KNN (Notes)",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/KNN - K Nearest Neighbors.pdf",
+      "orderIdx": 7
+    },
+    {
+      "id": "prime-2::n8",
+      "title": "Classification Metrics (Notes)",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Evaluation Metrics for Classification .pdf",
+      "orderIdx": 8
+    },
+    {
+      "id": "prime-2::n9",
+      "title": "Assignment Project (Employee Turnover)",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Supervised ML _Assignment2.pdf",
+      "orderIdx": 9
+    },
+    {
+      "id": "prime-2::n10",
+      "title": "Logistic Regression (Notes)",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Logistic Regression .pdf",
+      "orderIdx": 10
+    },
+    {
+      "id": "prime-2::n11",
+      "title": "Assignment Project (House Price Predictor)",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Supervised_ML_Assignment1.pdf",
+      "orderIdx": 11
+    },
+    {
+      "id": "prime-2::n12",
+      "title": "Regression Metrics (Notes)",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Evaluation Metrics for Regression.pdf",
+      "orderIdx": 12
+    },
+    {
+      "id": "prime-2::n13",
+      "title": "Linear Regression (Notes)",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Linear Regression.pdf",
+      "orderIdx": 13
+    },
+    {
+      "id": "prime-2::n14",
+      "title": "Assignment Problems",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Data Visualisation _Assignment.pdf",
+      "orderIdx": 14
+    },
+    {
+      "id": "prime-2::n15",
+      "title": "Seaborn Lecture Notes",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Data Visualization - Seaborn.pdf",
+      "orderIdx": 15
+    },
+    {
+      "id": "prime-2::n16",
+      "title": "Matplotlib Lecture Notes",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Data Visualization - Matplotlib.pdf",
+      "orderIdx": 16
+    },
+    {
+      "id": "prime-2::n17",
+      "title": "Lecture Notes",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Web Scraping.pdf",
+      "orderIdx": 17
+    },
+    {
+      "id": "prime-2::n18",
+      "title": "Lecture Notes",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/SQL2 Notes.pdf",
+      "orderIdx": 18
+    },
+    {
+      "id": "prime-2::n19",
+      "title": "Assignment Problems",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/SQL_Assignment.pdf",
+      "orderIdx": 19
+    },
+    {
+      "id": "prime-2::n20",
+      "title": "SQL Cheat Sheet",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/SQL_CheatSheet.pdf",
+      "orderIdx": 20
+    },
+    {
+      "id": "prime-2::n21",
+      "title": "Lecture Notes",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/SQL Notes by Apna College.pdf",
+      "orderIdx": 21
+    },
+    {
+      "id": "prime-2::n22",
+      "title": "Assignment Problems",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Pandas __Assignment Problems.pdf",
+      "orderIdx": 22
+    },
+    {
+      "id": "prime-2::n23",
+      "title": "Lecture Notes",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Pandas Notes.pdf",
+      "orderIdx": 23
+    },
+    {
+      "id": "prime-2::n24",
+      "title": "Lecture Notes",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/NumPy .pdf",
+      "orderIdx": 24
+    },
+    {
+      "id": "prime-2::n25",
+      "title": "Assignment Problems",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Python Fundamentals _Assignment5.pdf",
+      "orderIdx": 25
+    },
+    {
+      "id": "prime-2::n26",
+      "title": "Lecture Notes",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Python Fundamentals Part5.pdf",
+      "orderIdx": 26
+    },
+    {
+      "id": "prime-2::n27",
+      "title": "Mini Chat-System (Code)",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Chat_system_code.pdf",
+      "orderIdx": 27
+    },
+    {
+      "id": "prime-2::n28",
+      "title": "Assignment Problems",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Python Fundamentals _Assignment4.pdf",
+      "orderIdx": 28
+    },
+    {
+      "id": "prime-2::n29",
+      "title": "Lecture Notes",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Python Fundamentals Part4.pdf",
+      "orderIdx": 29
+    },
+    {
+      "id": "prime-2::n30",
+      "title": "Assignment Problems",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Python Fundamentals _Assignment3.pdf",
+      "orderIdx": 30
+    },
+    {
+      "id": "prime-2::n31",
+      "title": "Lecture Notes",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/1-Python Fundamentals _Part3.pdf",
+      "orderIdx": 31
+    },
+    {
+      "id": "prime-2::n32",
+      "title": "Assignment Problems",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Python Fundamentals _Assignment2.pdf",
+      "orderIdx": 32
+    },
+    {
+      "id": "prime-2::n33",
+      "title": "Lecture Notes",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Python Fundamentals _Part2.pdf",
+      "orderIdx": 33
+    },
+    {
+      "id": "prime-2::n34",
+      "title": "Assignment Problems",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Python Fundamentals _Assignment1.pdf",
+      "orderIdx": 34
+    },
+    {
+      "id": "prime-2::n35",
+      "title": "Lecture Notes",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Python Fundamentals Part1.pdf",
+      "orderIdx": 35
+    },
+    {
+      "id": "prime-2::n36",
+      "title": "Installation Guide",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Installation Guide Prime.pdf",
+      "orderIdx": 36
+    },
+    {
+      "id": "prime-2::n37",
+      "title": "Link to Join Telegram",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Telegram Link Prime2.pdf",
+      "orderIdx": 37
+    },
+    {
+      "id": "prime-2::n38",
+      "title": "Student Details Form",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=kAFOojmn5dGHgQsSY0YBqzUjGa1U8EpR5UmJbxVL&file=pdf/Welcome PDF Prime2.pdf",
+      "orderIdx": 38
+    }
+  ]
+}
