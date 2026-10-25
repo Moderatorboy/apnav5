@@ -1,0 +1,6 @@
+telethon
+yt-dlp
+python-dotenv
+# Optional but recommended (faster upload + video metadata):
+cryptg
+hachoir
