@@ -1,0 +1,1311 @@
+{
+  "id": "delta-9",
+  "name": "Delta 9.0",
+  "image": "https://lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/280edf1d66e83f6e5917aea1e4fe693b.jpg",
+  "videoCount": 141,
+  "pdfCount": 28,
+  "isPopular": false,
+  "originalPrice": 0,
+  "startDate": "N/A",
+  "lastSyncedAt": "2026-06-19T04:22:29.867Z",
+  "lectures": [
+    {
+      "id": "delta-9::6a1f1a443c01f62a4d0cc1a5",
+      "title": "Orientation Session Recording",
+      "link": "https://embed-ssl.wistia.com/deliveries/c199de0b7c9170544e447dc9172eef0b7206cfbf.m3u8",
+      "sourceId": "xtf00kx6l6",
+      "type": "wistia",
+      "orderIdx": 0
+    },
+    {
+      "id": "delta-9::6a268f6c6e942ca9aa043206",
+      "title": "LinkedIn Mentorship Session (Recording)",
+      "link": "https://embed-ssl.wistia.com/deliveries/68bda8ee267d6904ddc060481daef024edfec804.m3u8",
+      "sourceId": "nllxl1piwl",
+      "type": "wistia",
+      "orderIdx": 1
+    },
+    {
+      "id": "delta-9::6a322d4c374ced6c75031520",
+      "title": "Extra Live Session Recording",
+      "link": "https://embed-ssl.wistia.com/deliveries/b059ee341cfda3f030f8a9eb1f9c18928d309c67.m3u8",
+      "sourceId": "vgu0qzsmbo",
+      "type": "wistia",
+      "orderIdx": 2
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071714",
+      "title": "Welcome to Delta!",
+      "link": "https://embed-ssl.wistia.com/deliveries/661a595ae578c296799c54d097cb19f69a766d9f.m3u8",
+      "sourceId": "hucl9u6so2",
+      "type": "wistia",
+      "orderIdx": 3
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071715",
+      "title": "What is the Internet?",
+      "link": "https://embed-ssl.wistia.com/deliveries/249ef7a9be31ccb91f5ac5d2c98f942d49f6d46f.m3u8",
+      "sourceId": "m9wv4feydy",
+      "type": "wistia",
+      "orderIdx": 4
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071716",
+      "title": "What is Web Development?",
+      "link": "https://embed-ssl.wistia.com/deliveries/f46f98d69cfd4514aec48dc79ba6d7a47ef866ab.m3u8",
+      "sourceId": "3qi5un6lj3",
+      "type": "wistia",
+      "orderIdx": 5
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071717",
+      "title": "What will we learn?",
+      "link": "https://embed-ssl.wistia.com/deliveries/e86b222b277cc72981c8fc1b592ee36b42f7df4c.m3u8",
+      "sourceId": "vycpb4611f",
+      "type": "wistia",
+      "orderIdx": 6
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071718",
+      "title": "Prerequisites",
+      "link": "https://embed-ssl.wistia.com/deliveries/c994b1eeb0111ae8ca263e042e8e1a8cce0a0ace.m3u8",
+      "sourceId": "36rob479bs",
+      "type": "wistia",
+      "orderIdx": 7
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207171a",
+      "title": "Introduction to HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/412a9e22b5772201d0340d54f88613220333fb5d.m3u8",
+      "sourceId": "qxbvokwmqj",
+      "type": "wistia",
+      "orderIdx": 8
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207171b",
+      "title": "HTML Elements & Tags",
+      "link": "https://embed-ssl.wistia.com/deliveries/cd2b09138a118fa18a91dfd0685fe52964bbe9bc.m3u8",
+      "sourceId": "9ifsi19vbr",
+      "type": "wistia",
+      "orderIdx": 9
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207171c",
+      "title": "Hello World",
+      "link": "https://embed-ssl.wistia.com/deliveries/07665907760150e4f483fc2f11d15e1e8e0b1e6e.m3u8",
+      "sourceId": "fp2h3r3nvu",
+      "type": "wistia",
+      "orderIdx": 10
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207171d",
+      "title": "Paragraph Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/15ba79251d1cf3c913d135b9f14922a6ace14ff2.m3u8",
+      "sourceId": "g9na6rypsh",
+      "type": "wistia",
+      "orderIdx": 11
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207171e",
+      "title": "Heading Elements",
+      "link": "https://embed-ssl.wistia.com/deliveries/ea6ec0bfe01dcf4c27a3083ff05e967d11105ce0.m3u8",
+      "sourceId": "sobe72tnxk",
+      "type": "wistia",
+      "orderIdx": 12
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207171f",
+      "title": "Practice Qs (Level1A)",
+      "link": "https://embed-ssl.wistia.com/deliveries/3f8bfcb336a1eb01d71317f944b9b0d07361bf16.m3u8",
+      "sourceId": "cfoqf4a3hc",
+      "type": "wistia",
+      "orderIdx": 13
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071720",
+      "title": "Boilerplate Code",
+      "link": "https://embed-ssl.wistia.com/deliveries/cac0ddbbed75a73566c8f0f6b4ef89430db74476.m3u8",
+      "sourceId": "t51tsv4qzq",
+      "type": "wistia",
+      "orderIdx": 14
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071721",
+      "title": "Lists in HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/f9558799af6dd5226b98f5d9c7758575eea2c6cd.m3u8",
+      "sourceId": "vw5us5aovy",
+      "type": "wistia",
+      "orderIdx": 15
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071722",
+      "title": "Attributes in HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/e75adc50958b5b4229b92edf8cf60de5d991f7a2.m3u8",
+      "sourceId": "bpffcphcpm",
+      "type": "wistia",
+      "orderIdx": 16
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071723",
+      "title": "Anchor Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/0714ff1450c2447d207d172406774f5e9c02bdc1.m3u8",
+      "sourceId": "bp0yxwp6ec",
+      "type": "wistia",
+      "orderIdx": 17
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071724",
+      "title": "Image Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/69361c9c59a1e55d1a0125ddb592df78da35a0f1.m3u8",
+      "sourceId": "6huct4z3gr",
+      "type": "wistia",
+      "orderIdx": 18
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071725",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/1847f198b4a0e3c0bcc414938323cb4fb0f0c45a.m3u8",
+      "sourceId": "9t250om9ez",
+      "type": "wistia",
+      "orderIdx": 19
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071726",
+      "title": "More HTML Tags",
+      "link": "https://embed-ssl.wistia.com/deliveries/1326d0effb1c9f0f8234c27b9379de0352b78b47.m3u8",
+      "sourceId": "cdy348g59o",
+      "type": "wistia",
+      "orderIdx": 20
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071727",
+      "title": "Comments in HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/6ed58caf4a272ead571b6ce86ff0d2cf78ed6e44.m3u8",
+      "sourceId": "3pi93h105v",
+      "type": "wistia",
+      "orderIdx": 21
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071728",
+      "title": "Is HTML Case Sensitive?",
+      "link": "https://embed-ssl.wistia.com/deliveries/94bfaa50e24636c45e1827f5b096b4136fef251e.m3u8",
+      "sourceId": "g5mlw0qcsu",
+      "type": "wistia",
+      "orderIdx": 22
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071729",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/c2aa5ecc37c2ca691563bab6d79f23dfd420c910.m3u8",
+      "sourceId": "danqem6ygu",
+      "type": "wistia",
+      "orderIdx": 23
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207172c",
+      "title": "Inline v/s Block",
+      "link": "https://embed-ssl.wistia.com/deliveries/621ac84c202c7a7106b1569a89b4b6ac2f0aa8af.m3u8",
+      "sourceId": "7oowvmgcal",
+      "type": "wistia",
+      "orderIdx": 24
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207172d",
+      "title": "Div Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/b91de49992e84c50152c80517ecb4865d3553695.m3u8",
+      "sourceId": "d8z01byr2y",
+      "type": "wistia",
+      "orderIdx": 25
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207172e",
+      "title": "Span Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/45b6759da2041110e9d9b09a7194690d55cb0704.m3u8",
+      "sourceId": "3iel3ki50u",
+      "type": "wistia",
+      "orderIdx": 26
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207172f",
+      "title": "Hr Tag",
+      "link": "https://embed-ssl.wistia.com/deliveries/5e62f9d9f2cea2e81eca7c58188ff0a9141e3974.m3u8",
+      "sourceId": "irg61p1y6j",
+      "type": "wistia",
+      "orderIdx": 27
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071730",
+      "title": "Sup & Sub Tags",
+      "link": "https://embed-ssl.wistia.com/deliveries/c33caf105871b421ba255ba9d88818cd5c14baf1.m3u8",
+      "sourceId": "3q1oq3tkzi",
+      "type": "wistia",
+      "orderIdx": 28
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071731",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/ce28f91eed4b5dd8327db4b51e00a9e12f505717.m3u8",
+      "sourceId": "in3zq099r2",
+      "type": "wistia",
+      "orderIdx": 29
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071732",
+      "title": "Semantic Markup",
+      "link": "https://embed-ssl.wistia.com/deliveries/8a25822f488b7993016519654be36caaa2b904ef.m3u8",
+      "sourceId": "u4f772478e",
+      "type": "wistia",
+      "orderIdx": 30
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071733",
+      "title": "Semantic Tags",
+      "link": "https://embed-ssl.wistia.com/deliveries/6b3864f73aedb8e0781a428e51f037c77a6464be.m3u8",
+      "sourceId": "1aubc783az",
+      "type": "wistia",
+      "orderIdx": 31
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071734",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/0b4adddc5b558103a3b11b0caef4bd1d2eb3f8ae.m3u8",
+      "sourceId": "lnmjqscmau",
+      "type": "wistia",
+      "orderIdx": 32
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071735",
+      "title": "HTML Entities",
+      "link": "https://embed-ssl.wistia.com/deliveries/7529bd44575fe860273da616ba5dfe10fdff0192.m3u8",
+      "sourceId": "6x68liv18j",
+      "type": "wistia",
+      "orderIdx": 33
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071736",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/e709ef717c7310aba99aa40188766a403ff5f958.m3u8",
+      "sourceId": "panzbsb5d6",
+      "type": "wistia",
+      "orderIdx": 34
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071737",
+      "title": "Emmets",
+      "link": "https://embed-ssl.wistia.com/deliveries/d051d1b26efb404ee74699232f25393270eb7071.m3u8",
+      "sourceId": "oeylvd5qgx",
+      "type": "wistia",
+      "orderIdx": 35
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071738",
+      "title": "Further Understanding HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/acea4dc68537331c6675a07a9c14d6ffcd999527.m3u8",
+      "sourceId": "0df8zr5u37",
+      "type": "wistia",
+      "orderIdx": 36
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd6856207174c",
+      "title": "Tables in HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/6a45fb2117404047c0c53e344b9a7e87efd9f01e.m3u8",
+      "sourceId": "3hvrosdm8f",
+      "type": "wistia",
+      "orderIdx": 37
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd6856207174d",
+      "title": "Semantics in Tables",
+      "link": "https://embed-ssl.wistia.com/deliveries/980475976c6b21b218375777ba4ce41dbc3408fc.m3u8",
+      "sourceId": "9hj8qvduqg",
+      "type": "wistia",
+      "orderIdx": 38
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd6856207174e",
+      "title": "Colspan & Rowspan Attributes",
+      "link": "https://embed-ssl.wistia.com/deliveries/2d914f119db969aacbd72b98652e54ba6d1b13a2.m3u8",
+      "sourceId": "y3fba8sjfj",
+      "type": "wistia",
+      "orderIdx": 39
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd6856207174f",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/81cbe9ab82e3d4020abaf99a535cd60093b2038e.m3u8",
+      "sourceId": "v5xwozhqwu",
+      "type": "wistia",
+      "orderIdx": 40
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd68562071750",
+      "title": "Forms in HTML",
+      "link": "https://embed-ssl.wistia.com/deliveries/4496e95acab8218c9e0be13e0d8b43d615877f80.m3u8",
+      "sourceId": "wqzoijwsmu",
+      "type": "wistia",
+      "orderIdx": 41
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd68562071751",
+      "title": "Input - Form Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/12cab8aa0e67b561628321ea1a025ff713066d0d.m3u8",
+      "sourceId": "9t4nndd5hn",
+      "type": "wistia",
+      "orderIdx": 42
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd68562071752",
+      "title": "Placeholders & Labels",
+      "link": "https://embed-ssl.wistia.com/deliveries/2edba33562c00d26845afaf9c9520ac0f4dcc879.m3u8",
+      "sourceId": "x9fphbckn0",
+      "type": "wistia",
+      "orderIdx": 43
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd68562071753",
+      "title": "Button Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/4529d538b96a1aab904901c564758dbe5d9f0973.m3u8",
+      "sourceId": "wtl2o0wcx0",
+      "type": "wistia",
+      "orderIdx": 44
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd68562071754",
+      "title": "Name Attribute",
+      "link": "https://embed-ssl.wistia.com/deliveries/6c9ed42a3662a42e2fd71a754e372265c6babe45.m3u8",
+      "sourceId": "n5jeloaqqb",
+      "type": "wistia",
+      "orderIdx": 45
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd68562071755",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/cd9582397415a652bd6ce20e1ea34093f9570937.m3u8",
+      "sourceId": "ld7h6159vx",
+      "type": "wistia",
+      "orderIdx": 46
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd68562071756",
+      "title": "Checkbox - Input Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/19db41656f11b998ba66f949d34b7e2408707e06.m3u8",
+      "sourceId": "34d4owbgi6",
+      "type": "wistia",
+      "orderIdx": 47
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd68562071757",
+      "title": "Radio - Input Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/32d2b9a1887aad45958ed84f273e958b3989de57.m3u8",
+      "sourceId": "1wh0t07j78",
+      "type": "wistia",
+      "orderIdx": 48
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd68562071758",
+      "title": "Select - Input Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/11ed91a00524ebf069c183c4c238233db93b935a.m3u8",
+      "sourceId": "kz09bpvkds",
+      "type": "wistia",
+      "orderIdx": 49
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd68562071759",
+      "title": "Range - Input Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/c96cf33c93eca4f00dde2875c07cd18dd1b02357.m3u8",
+      "sourceId": "l7ei4jbh8a",
+      "type": "wistia",
+      "orderIdx": 50
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd6856207175a",
+      "title": "Text Area",
+      "link": "https://embed-ssl.wistia.com/deliveries/9d6e56a5bb74c4c7abc88e822c751e9c372137a9.m3u8",
+      "sourceId": "d5zkf46pzf",
+      "type": "wistia",
+      "orderIdx": 51
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd6856207175b",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/454707b7da2e79d13ba51925b26c447b7d33a6ca.m3u8",
+      "sourceId": "4kxssr644i",
+      "type": "wistia",
+      "orderIdx": 52
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207173b",
+      "title": "What is CSS?",
+      "link": "https://embed-ssl.wistia.com/deliveries/641e77c1939fb7518702ccef4d671bcd3526216d.m3u8",
+      "sourceId": "da8qe50cyu",
+      "type": "wistia",
+      "orderIdx": 53
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207173c",
+      "title": "Basic CSS Format",
+      "link": "https://embed-ssl.wistia.com/deliveries/f56a1c344158f528651e85237b6e8d6636c4c04e.m3u8",
+      "sourceId": "owal0r92dy",
+      "type": "wistia",
+      "orderIdx": 54
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207173d",
+      "title": "Including CSS",
+      "link": "https://embed-ssl.wistia.com/deliveries/e03880c13f17bdc8dff9c072b3b282a3c573f43a.m3u8",
+      "sourceId": "dmiixztj84",
+      "type": "wistia",
+      "orderIdx": 55
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207173e",
+      "title": "Color Property",
+      "link": "https://embed-ssl.wistia.com/deliveries/3c6368201d48457e1e63bf969a871d2844e0c088.m3u8",
+      "sourceId": "dif612ki7m",
+      "type": "wistia",
+      "orderIdx": 56
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd6856207173f",
+      "title": "Background Color Property",
+      "link": "https://embed-ssl.wistia.com/deliveries/8bc7430f1fc48b8815b6d0d21f5b0c82b3baba9d.m3u8",
+      "sourceId": "cgqak53w6a",
+      "type": "wistia",
+      "orderIdx": 57
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071740",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/5c0fdbc3bfc5cf3e38b970cdb8940acb7271a063.m3u8",
+      "sourceId": "bv20ba1x3u",
+      "type": "wistia",
+      "orderIdx": 58
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071741",
+      "title": "Color Systems (Name & RGB)",
+      "link": "https://embed-ssl.wistia.com/deliveries/18cac411c426b9cd0701aa40446afbdb846e4b74.m3u8",
+      "sourceId": "9t6m5irdth",
+      "type": "wistia",
+      "orderIdx": 59
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071742",
+      "title": "Hex Codes",
+      "link": "https://embed-ssl.wistia.com/deliveries/a26d6b840d182a42c4e1d3d86a842d6f45a6f6fd.m3u8",
+      "sourceId": "3t312i6w7h",
+      "type": "wistia",
+      "orderIdx": 60
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071743",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/c5508d4da94c06d2d98a743e994b9fb7258d691d.m3u8",
+      "sourceId": "9fn75nvc5o",
+      "type": "wistia",
+      "orderIdx": 61
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071744",
+      "title": "Text Align Property",
+      "link": "https://embed-ssl.wistia.com/deliveries/0982fc8582be30ea5a6bfb3bb9372581312d9910.m3u8",
+      "sourceId": "iol9wpt8hu",
+      "type": "wistia",
+      "orderIdx": 62
+    },
+    {
+      "id": "delta-9::6a1ef06b03fbd68562071745",
+      "title": "Font Weight & Text Decoration",
+      "link": "https://embed-ssl.wistia.com/deliveries/1a04b2698d298ab3237cd172c70e24007824f0c8.m3u8",
+      "sourceId": "x03a2kmu6f",
+      "type": "wistia",
+      "orderIdx": 63
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd68562071746",
+      "title": "Line Height & Letter Spacing",
+      "link": "https://embed-ssl.wistia.com/deliveries/8e77248067fc4c35cd11d400f3f8605ef75fa12e.m3u8",
+      "sourceId": "3ogseajx53",
+      "type": "wistia",
+      "orderIdx": 64
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd68562071747",
+      "title": "Units in CSS (Pixel)",
+      "link": "https://embed-ssl.wistia.com/deliveries/01fcf336f84c32e8f6f9ae23f803b376e073cb66.m3u8",
+      "sourceId": "cp7sblc0r6",
+      "type": "wistia",
+      "orderIdx": 65
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd68562071748",
+      "title": "Font Family",
+      "link": "https://embed-ssl.wistia.com/deliveries/4de64447f89cff74ec2aebbbf59b32fc68efd07d.m3u8",
+      "sourceId": "fxe4xsiqbf",
+      "type": "wistia",
+      "orderIdx": 66
+    },
+    {
+      "id": "delta-9::6a1ef06c03fbd68562071749",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/fc1adc5ddfcc6e3b3e80eacffff562fd81e773e4.m3u8",
+      "sourceId": "s4jp35k4rx",
+      "type": "wistia",
+      "orderIdx": 67
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b917",
+      "title": "How to download?",
+      "link": "https://embed-ssl.wistia.com/deliveries/ec8dc3bc915826bb717c834670c3fbc2abcfc935.m3u8",
+      "sourceId": "8xulqixmpc",
+      "type": "wistia",
+      "orderIdx": 68
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b918",
+      "title": "Universal Selector",
+      "link": "https://embed-ssl.wistia.com/deliveries/5a2a9cae1030315ab50215ceacdc88c29a491b33.m3u8",
+      "sourceId": "rhk3yplbt2",
+      "type": "wistia",
+      "orderIdx": 69
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b919",
+      "title": "Element Selector",
+      "link": "https://embed-ssl.wistia.com/deliveries/a6cbb0a1b501313b3a707d8abc9c46edca8d027c.m3u8",
+      "sourceId": "nbud61puaf",
+      "type": "wistia",
+      "orderIdx": 70
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b91a",
+      "title": "Id Selector",
+      "link": "https://embed-ssl.wistia.com/deliveries/346661cc9936ed35b56d5743bd0a748359c9919d.m3u8",
+      "sourceId": "ximnny6nfv",
+      "type": "wistia",
+      "orderIdx": 71
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b91b",
+      "title": "Class Selector",
+      "link": "https://embed-ssl.wistia.com/deliveries/c6aa67aa2cf4b31262d5a5514713494bcc1345b9.m3u8",
+      "sourceId": "xsr9ce8q79",
+      "type": "wistia",
+      "orderIdx": 72
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b91c",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/d6866705f2b987a664a402ec5a55b05bfec6360a.m3u8",
+      "sourceId": "dei7y2889s",
+      "type": "wistia",
+      "orderIdx": 73
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b91d",
+      "title": "Descendant Selector",
+      "link": "https://embed-ssl.wistia.com/deliveries/4ed8b070a91c908740556ea2dc64a600543b2b67.m3u8",
+      "sourceId": "dx1bg9703x",
+      "type": "wistia",
+      "orderIdx": 74
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b91e",
+      "title": "Sibling Combinator",
+      "link": "https://embed-ssl.wistia.com/deliveries/c5fdffa54325913b89d7154adc41463b31feae9f.m3u8",
+      "sourceId": "7j7kovgtch",
+      "type": "wistia",
+      "orderIdx": 75
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b91f",
+      "title": "Child Combinator",
+      "link": "https://embed-ssl.wistia.com/deliveries/745a8b6bf92775389be842f73133bdbc223d40a7.m3u8",
+      "sourceId": "jakuu545gg",
+      "type": "wistia",
+      "orderIdx": 76
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b920",
+      "title": "Attribute Selector",
+      "link": "https://embed-ssl.wistia.com/deliveries/07cd239832cf3ad9d31c8b39c574f604b97bcf45.m3u8",
+      "sourceId": "6bbyohrbc0",
+      "type": "wistia",
+      "orderIdx": 77
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b921",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/c3fd6001372f56900e7662d39033a81ac98937f1.m3u8",
+      "sourceId": "ipj4ugm454",
+      "type": "wistia",
+      "orderIdx": 78
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b922",
+      "title": "Pseudo Class",
+      "link": "https://embed-ssl.wistia.com/deliveries/97fefd1bdc734e9afa4f0e51dacceddc395253b8.m3u8",
+      "sourceId": "hk5qww0av0",
+      "type": "wistia",
+      "orderIdx": 79
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b923",
+      "title": "Pseudo Element",
+      "link": "https://embed-ssl.wistia.com/deliveries/53eafcabc307b20eeee14199c3311d19bf17cc31.m3u8",
+      "sourceId": "a5szywx9pd",
+      "type": "wistia",
+      "orderIdx": 80
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b924",
+      "title": "Cascading & Specificity",
+      "link": "https://embed-ssl.wistia.com/deliveries/90e86b890fa1e5d89dad37985dd3812dbee4e352.m3u8",
+      "sourceId": "ipn7l9df1o",
+      "type": "wistia",
+      "orderIdx": 81
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b925",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/63f1cce95a3b3f31127e44b779205279cb05f22d.m3u8",
+      "sourceId": "737l4fg9ac",
+      "type": "wistia",
+      "orderIdx": 82
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b926",
+      "title": "!important in CSS",
+      "link": "https://embed-ssl.wistia.com/deliveries/ff229159f66c3d91bbd941001b25e1b342588f2f.m3u8",
+      "sourceId": "jfx1ve90a6",
+      "type": "wistia",
+      "orderIdx": 83
+    },
+    {
+      "id": "delta-9::6a26d34637c75529f101b927",
+      "title": "Inheritance",
+      "link": "https://embed-ssl.wistia.com/deliveries/667f9a74f7a2ea67bef7eac9a9a0dc88b16f13db.m3u8",
+      "sourceId": "88n8jcb0kr",
+      "type": "wistia",
+      "orderIdx": 84
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b92b",
+      "title": "Box Model",
+      "link": "https://embed-ssl.wistia.com/deliveries/629da7c1a28ffd20213132ae865b8cd7ade4fb3f.m3u8",
+      "sourceId": "57i7t6mn6q",
+      "type": "wistia",
+      "orderIdx": 85
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b92c",
+      "title": "Height & Width",
+      "link": "https://embed-ssl.wistia.com/deliveries/f360b49722c19944de2d241e3ebe596cd0576f21.m3u8",
+      "sourceId": "1hvqtq4qi6",
+      "type": "wistia",
+      "orderIdx": 86
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b92d",
+      "title": "Border",
+      "link": "https://embed-ssl.wistia.com/deliveries/03fb20b1862b57c14114ff962bb852024c282736.m3u8",
+      "sourceId": "vr46h7arss",
+      "type": "wistia",
+      "orderIdx": 87
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b92e",
+      "title": "Border Radius",
+      "link": "https://embed-ssl.wistia.com/deliveries/0fec17f54d530e3971365634d567b765595b0821.m3u8",
+      "sourceId": "vnljlnowqd",
+      "type": "wistia",
+      "orderIdx": 88
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b92f",
+      "title": "Padding Property",
+      "link": "https://embed-ssl.wistia.com/deliveries/8d762012e4693a6a0eee5f42aa2ec40362e350e7.m3u8",
+      "sourceId": "9lnzqddapa",
+      "type": "wistia",
+      "orderIdx": 89
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b930",
+      "title": "Margin Property",
+      "link": "https://embed-ssl.wistia.com/deliveries/b00a93641a46b141c52555c68f2069e3221a0c7e.m3u8",
+      "sourceId": "y5rfpa51a5",
+      "type": "wistia",
+      "orderIdx": 90
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b931",
+      "title": "Practice Qs",
+      "link": "https://embed-ssl.wistia.com/deliveries/9c9ad1458e0805ed769b5d2fe391e2cd645387a2.m3u8",
+      "sourceId": "1chwl2h00f",
+      "type": "wistia",
+      "orderIdx": 91
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b932",
+      "title": "Display Property",
+      "link": "https://embed-ssl.wistia.com/deliveries/f942980c93287c930897ccc211369fc65326636b.m3u8",
+      "sourceId": "bapl29tao4",
+      "type": "wistia",
+      "orderIdx": 92
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b934",
+      "title": "Inline-Block",
+      "link": "https://embed-ssl.wistia.com/deliveries/a3096b6140e3cb56bd4426d17a85afd142d70e1b.m3u8",
+      "sourceId": "dakmmqgrsa",
+      "type": "wistia",
+      "orderIdx": 93
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b935",
+      "title": "Relative Units (Percentage)",
+      "link": "https://embed-ssl.wistia.com/deliveries/02d52f3b798e735b7be33a1e8c2d0a5388ec21ad.m3u8",
+      "sourceId": "godb0v5j0l",
+      "type": "wistia",
+      "orderIdx": 94
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b936",
+      "title": "Em & Rem in Units",
+      "link": "https://embed-ssl.wistia.com/deliveries/c7b73a2bded80aa13aafcb7b64cf2700f8d76f98.m3u8",
+      "sourceId": "sss4eko23t",
+      "type": "wistia",
+      "orderIdx": 95
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b939",
+      "title": "Alpha & Opacity",
+      "link": "https://embed-ssl.wistia.com/deliveries/c0d24a91e7732938f085251babd9af1839cca1a8.m3u8",
+      "sourceId": "l4vwko4a53",
+      "type": "wistia",
+      "orderIdx": 96
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b93a",
+      "title": "Transitions in CSS",
+      "link": "https://embed-ssl.wistia.com/deliveries/6227a35545956095718f49fbf2faad61dc553278.m3u8",
+      "sourceId": "8piberfhkv",
+      "type": "wistia",
+      "orderIdx": 97
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b93b",
+      "title": "Transform - Rotate",
+      "link": "https://embed-ssl.wistia.com/deliveries/b98c2fcb52ad512aaac19180c09263615112eae0.m3u8",
+      "sourceId": "s7u6dw7gji",
+      "type": "wistia",
+      "orderIdx": 98
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b93c",
+      "title": "Tranform - Scale",
+      "link": "https://embed-ssl.wistia.com/deliveries/a385333768b938d01442bf08ab0f53ae1836059b.m3u8",
+      "sourceId": "9wlv3pdgc5",
+      "type": "wistia",
+      "orderIdx": 99
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b93d",
+      "title": "Transform - Translate",
+      "link": "https://embed-ssl.wistia.com/deliveries/84bdb6b0ee52599023283f47edb9ab654f7049a2.m3u8",
+      "sourceId": "z1jpfn3dkq",
+      "type": "wistia",
+      "orderIdx": 100
+    },
+    {
+      "id": "delta-9::6a26d34737c75529f101b93e",
+      "title": "Transform - Skew",
+      "link": "https://embed-ssl.wistia.com/deliveries/cc7f7775f5394dc939de8074fde8ee2aaa2bca39.m3u8",
+      "sourceId": "828hh9j9ob",
+      "type": "wistia",
+      "orderIdx": 101
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b93f",
+      "title": "Box Shadow",
+      "link": "https://embed-ssl.wistia.com/deliveries/6a09dc7235149e6f4cb4958f6cf42df158486df1.m3u8",
+      "sourceId": "9b9j46hxvv",
+      "type": "wistia",
+      "orderIdx": 102
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b940",
+      "title": "Background Image",
+      "link": "https://embed-ssl.wistia.com/deliveries/fdfee667f6504877960ef650d7e24ed2605fc6e5.m3u8",
+      "sourceId": "tifdwx087b",
+      "type": "wistia",
+      "orderIdx": 103
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b941",
+      "title": "Card Hover Effect",
+      "link": "https://embed-ssl.wistia.com/deliveries/2a3cac842ec0728703cb78344cce6d5872030c31.m3u8",
+      "sourceId": "wj6hpxm1kw",
+      "type": "wistia",
+      "orderIdx": 104
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b942",
+      "title": "Position Property",
+      "link": "https://embed-ssl.wistia.com/deliveries/7e2aad2949771ce720ebff4dea8bc2e66a3869e6.m3u8",
+      "sourceId": "k0sgdk78uv",
+      "type": "wistia",
+      "orderIdx": 105
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b943",
+      "title": "Simple Smiley Face",
+      "link": "https://embed-ssl.wistia.com/deliveries/da45e2410a13c06cb914a7023298b52fe09dad3f.m3u8",
+      "sourceId": "8enimluept",
+      "type": "wistia",
+      "orderIdx": 106
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b946",
+      "title": "What is Flexbox?",
+      "link": "https://embed-ssl.wistia.com/deliveries/f41e2e0edbf778f8f3ff2b29d6d099e956bde465.m3u8",
+      "sourceId": "owwonzcb8b",
+      "type": "wistia",
+      "orderIdx": 107
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b947",
+      "title": "Display Flex",
+      "link": "https://embed-ssl.wistia.com/deliveries/b83124c8444f88b4e926b313be61c336c9fa3d8d.m3u8",
+      "sourceId": "q37bwapho1",
+      "type": "wistia",
+      "orderIdx": 108
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b948",
+      "title": "Flex Direction",
+      "link": "https://embed-ssl.wistia.com/deliveries/93fe66654b2a9510ae3ae1b1fdd8588d701171ec.m3u8",
+      "sourceId": "4gxs2m35i4",
+      "type": "wistia",
+      "orderIdx": 109
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b949",
+      "title": "Justify Content",
+      "link": "https://embed-ssl.wistia.com/deliveries/f7932271535054117b3ca577916d354c4e80d7f0.m3u8",
+      "sourceId": "iawavn4opx",
+      "type": "wistia",
+      "orderIdx": 110
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b94a",
+      "title": "Flex Wrap",
+      "link": "https://embed-ssl.wistia.com/deliveries/65c7658e4f32e3e94deb5bc24b26dde6c47df567.m3u8",
+      "sourceId": "ap4oycwq70",
+      "type": "wistia",
+      "orderIdx": 111
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b94b",
+      "title": "Align Items",
+      "link": "https://embed-ssl.wistia.com/deliveries/902f2c086aa7e4ead81f1df84627e2c42235b9d5.m3u8",
+      "sourceId": "ebljd61kl7",
+      "type": "wistia",
+      "orderIdx": 112
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b94c",
+      "title": "Align Content",
+      "link": "https://embed-ssl.wistia.com/deliveries/65bfff8460ea6453b70fb48a1f269fcb8991aae6.m3u8",
+      "sourceId": "6k6lfdc5ls",
+      "type": "wistia",
+      "orderIdx": 113
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b94d",
+      "title": "Align Self",
+      "link": "https://embed-ssl.wistia.com/deliveries/2fd72200161899c392af2c64b905b9ad10c36515.m3u8",
+      "sourceId": "x430qvnhw5",
+      "type": "wistia",
+      "orderIdx": 114
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b94e",
+      "title": "Flex Sizing",
+      "link": "https://embed-ssl.wistia.com/deliveries/5030996e605c3a504ac665748db9f906cfe5280c.m3u8",
+      "sourceId": "9r21928ghv",
+      "type": "wistia",
+      "orderIdx": 115
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b94f",
+      "title": "Flex Shorthand",
+      "link": "https://embed-ssl.wistia.com/deliveries/c66de59ee2879a9247ee6f09c0500c1434e8e616.m3u8",
+      "sourceId": "2wmsuhswn9",
+      "type": "wistia",
+      "orderIdx": 116
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b953",
+      "title": "What is Grid?",
+      "link": "https://embed-ssl.wistia.com/deliveries/12b5851cba16c373af15102be326d91f6eb8d175.m3u8",
+      "sourceId": "wj4f9efc0a",
+      "type": "wistia",
+      "orderIdx": 117
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b954",
+      "title": "Grid Model",
+      "link": "https://embed-ssl.wistia.com/deliveries/63720160bf7352656e40ba1b41d8763f9984b4d1.m3u8",
+      "sourceId": "zwbxce3i1x",
+      "type": "wistia",
+      "orderIdx": 118
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b955",
+      "title": "Grid Template",
+      "link": "https://embed-ssl.wistia.com/deliveries/b859906b01fa4ffc1fa5a0e32c6726cc4f001316.m3u8",
+      "sourceId": "tmi1brn0p2",
+      "type": "wistia",
+      "orderIdx": 119
+    },
+    {
+      "id": "delta-9::6a26d34837c75529f101b956",
+      "title": "Grid Template (repeat)",
+      "link": "https://embed-ssl.wistia.com/deliveries/757506e5e9028b66a9c17cf7b59ae49e7f7db35b.m3u8",
+      "sourceId": "vtgrzkhnzc",
+      "type": "wistia",
+      "orderIdx": 120
+    },
+    {
+      "id": "delta-9::6a26d34937c75529f101b957",
+      "title": "Grid Gaps",
+      "link": "https://embed-ssl.wistia.com/deliveries/cbf92039abac2fce9ddefe616302c25dd7097f25.m3u8",
+      "sourceId": "h7ilh83zhl",
+      "type": "wistia",
+      "orderIdx": 121
+    },
+    {
+      "id": "delta-9::6a26d34937c75529f101b958",
+      "title": "Grid Columns",
+      "link": "https://embed-ssl.wistia.com/deliveries/df527c48b5828237a2551dd481d17f488cccdef2.m3u8",
+      "sourceId": "j94ogl21tm",
+      "type": "wistia",
+      "orderIdx": 122
+    },
+    {
+      "id": "delta-9::6a26d34937c75529f101b959",
+      "title": "Grid Rows",
+      "link": "https://embed-ssl.wistia.com/deliveries/b61853241b3c19764342d3948b8c3bcc86006fa2.m3u8",
+      "sourceId": "x1o4u4z3ns",
+      "type": "wistia",
+      "orderIdx": 123
+    },
+    {
+      "id": "delta-9::6a26d34937c75529f101b95a",
+      "title": "Grid Properties",
+      "link": "https://embed-ssl.wistia.com/deliveries/9c88fe43bfc35256494c4db2f76273c58cc24e02.m3u8",
+      "sourceId": "29omceknlb",
+      "type": "wistia",
+      "orderIdx": 124
+    },
+    {
+      "id": "delta-9::6a26d34937c75529f101b95b",
+      "title": "Animation in CSS",
+      "link": "https://embed-ssl.wistia.com/deliveries/f9fbf95ff1b537520ec404ca6348666a5b0bc34d.m3u8",
+      "sourceId": "o654lp1pzf",
+      "type": "wistia",
+      "orderIdx": 125
+    },
+    {
+      "id": "delta-9::6a26d34937c75529f101b95c",
+      "title": "Animation Shorthand",
+      "link": "https://embed-ssl.wistia.com/deliveries/056869be63d7c3348aa1c3e7a5756d36a6c4362a.m3u8",
+      "sourceId": "4l6k7hvxa3",
+      "type": "wistia",
+      "orderIdx": 126
+    },
+    {
+      "id": "delta-9::6a26d34937c75529f101b95d",
+      "title": "% in Animation",
+      "link": "https://embed-ssl.wistia.com/deliveries/a998e11c370dc628f57acd303450d8ee84c21d5a.m3u8",
+      "sourceId": "9uwboqjx3j",
+      "type": "wistia",
+      "orderIdx": 127
+    },
+    {
+      "id": "delta-9::6a26d34937c75529f101b95e",
+      "title": "Media Queries",
+      "link": "https://embed-ssl.wistia.com/deliveries/ceb9cab0530dde7aa7f78722b39350c7f1448363.m3u8",
+      "sourceId": "htyr1en6ds",
+      "type": "wistia",
+      "orderIdx": 128
+    },
+    {
+      "id": "delta-9::6a26d34937c75529f101b95f",
+      "title": "Media Queries (Orientation)",
+      "link": "https://embed-ssl.wistia.com/deliveries/08c1c58fd3dec73c7ef4482ddb6a403dea9af7f2.m3u8",
+      "sourceId": "orsyg7p2n4",
+      "type": "wistia",
+      "orderIdx": 129
+    },
+    {
+      "id": "delta-9::6a26d34937c75529f101b960",
+      "title": "Pet Adoption Page",
+      "link": "https://embed-ssl.wistia.com/deliveries/ab1cdf720eafa5a59a3f0f4b6fa1b2bc5364c680.m3u8",
+      "sourceId": "vb48hemovw",
+      "type": "wistia",
+      "orderIdx": 130
+    },
+    {
+      "id": "delta-9::6a26d34937c75529f101b962",
+      "title": "z-index",
+      "link": "https://embed-ssl.wistia.com/deliveries/94843b48001e505be55786e2f566b1f9e1988084.m3u8",
+      "sourceId": "2hdqzl1jkg",
+      "type": "wistia",
+      "orderIdx": 131
+    },
+    {
+      "id": "delta-9::6a340317e60211ab5e0adfd6",
+      "title": "Color Theory",
+      "link": "https://embed-ssl.wistia.com/deliveries/8c1d9feccd6bfc0aa197e026123e5d6f807d8bb3.m3u8",
+      "sourceId": "xq8smu09zd",
+      "type": "wistia",
+      "orderIdx": 132
+    },
+    {
+      "id": "delta-9::6a340317e60211ab5e0adfd7",
+      "title": "Typography",
+      "link": "https://embed-ssl.wistia.com/deliveries/2b948264d8d40d329a78cb9a96a6430e1ee76890.m3u8",
+      "sourceId": "j0t4g4ai68",
+      "type": "wistia",
+      "orderIdx": 133
+    },
+    {
+      "id": "delta-9::6a340317e60211ab5e0adfd8",
+      "title": "Google Fonts",
+      "link": "https://embed-ssl.wistia.com/deliveries/fc7e44cb9be138245aa35471367a5ae5f050a69e.m3u8",
+      "sourceId": "cf96ct59uu",
+      "type": "wistia",
+      "orderIdx": 134
+    },
+    {
+      "id": "delta-9::6a340317e60211ab5e0adfd9",
+      "title": "Icons",
+      "link": "https://embed-ssl.wistia.com/deliveries/476f064d875e33c12a4d75c34609e1621f343730.m3u8",
+      "sourceId": "gqb9mjfu7n",
+      "type": "wistia",
+      "orderIdx": 135
+    },
+    {
+      "id": "delta-9::6a340317e60211ab5e0adfdb",
+      "title": "Introduction",
+      "link": "https://embed-ssl.wistia.com/deliveries/4e5c00403fd2f18377192efa14ec3cac7a90e5a6.m3u8",
+      "sourceId": "ymu8e6lg30",
+      "type": "wistia",
+      "orderIdx": 136
+    },
+    {
+      "id": "delta-9::6a340317e60211ab5e0adfdc",
+      "title": "Setting Style",
+      "link": "https://embed-ssl.wistia.com/deliveries/4d7af9521e6e738953efd59bb4bdd65d8b1dc0ff.m3u8",
+      "sourceId": "v7nlxbprzj",
+      "type": "wistia",
+      "orderIdx": 137
+    },
+    {
+      "id": "delta-9::6a340317e60211ab5e0adfdd",
+      "title": "Sidebar Menu",
+      "link": "https://embed-ssl.wistia.com/deliveries/45d9d92b0b61d15ee987d629f7cb2ecb6395dd84.m3u8",
+      "sourceId": "qnaiocd93l",
+      "type": "wistia",
+      "orderIdx": 138
+    },
+    {
+      "id": "delta-9::6a340317e60211ab5e0adfde",
+      "title": "Hover Changes",
+      "link": "https://embed-ssl.wistia.com/deliveries/13cc3ba1bfdc2dd7be4b62ea2f3fc7a556a753a2.m3u8",
+      "sourceId": "3ncku2j483",
+      "type": "wistia",
+      "orderIdx": 139
+    },
+    {
+      "id": "delta-9::6a340318e60211ab5e0adfdf",
+      "title": "Configuring Checkbox",
+      "link": "https://embed-ssl.wistia.com/deliveries/c45e332bdf26f17f012eaf61f4f00f3d32015cb5.m3u8",
+      "sourceId": "d8pv98ax5c",
+      "type": "wistia",
+      "orderIdx": 140
+    }
+  ],
+  "notes": [
+    {
+      "id": "delta-9::n0",
+      "title": "Starter Files",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/Download Starter HTML (3).pdf",
+      "orderIdx": 0
+    },
+    {
+      "id": "delta-9::n1",
+      "title": "Assignment Solutions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/CSS Part 6 (Ans).pdf",
+      "orderIdx": 1
+    },
+    {
+      "id": "delta-9::n2",
+      "title": "Assignment Questions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/CSS Part6 (Qs).pdf",
+      "orderIdx": 2
+    },
+    {
+      "id": "delta-9::n3",
+      "title": "Download Starter Files (Pet Adoption)",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/Download Starter HTML (2).pdf",
+      "orderIdx": 3
+    },
+    {
+      "id": "delta-9::n4",
+      "title": "FlexBox Summary",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/Flowchart-1-2 2.pdf",
+      "orderIdx": 4
+    },
+    {
+      "id": "delta-9::n5",
+      "title": "Assignment Solutions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/CSS Part 5 (Ans).pdf",
+      "orderIdx": 5
+    },
+    {
+      "id": "delta-9::n6",
+      "title": "Assignment Questions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/CSS Part5(Qs).pdf",
+      "orderIdx": 6
+    },
+    {
+      "id": "delta-9::n7",
+      "title": "Assignment Solutions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/CSS Part 4 (Ans).pdf",
+      "orderIdx": 7
+    },
+    {
+      "id": "delta-9::n8",
+      "title": "Assignment Questions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/CSS Part4 (Qs) (1).pdf",
+      "orderIdx": 8
+    },
+    {
+      "id": "delta-9::n9",
+      "title": "Assignment Solutions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/CSS Part 3 (Ans).pdf",
+      "orderIdx": 9
+    },
+    {
+      "id": "delta-9::n10",
+      "title": "Assignment Questions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/CSS Part3 (Qs).pdf",
+      "orderIdx": 10
+    },
+    {
+      "id": "delta-9::n11",
+      "title": "Conclusions (Block & Inline)",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/Conclusion (Inline & Block).pdf",
+      "orderIdx": 11
+    },
+    {
+      "id": "delta-9::n12",
+      "title": "Download Starter HTML",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/Download Starter HTML (1).pdf",
+      "orderIdx": 12
+    },
+    {
+      "id": "delta-9::n13",
+      "title": "Assignment Solutions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/CSS Part 2 (Ans) (1).pdf",
+      "orderIdx": 13
+    },
+    {
+      "id": "delta-9::n14",
+      "title": "Assignment Questions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/CSS Part2 (Qs).pdf",
+      "orderIdx": 14
+    },
+    {
+      "id": "delta-9::n15",
+      "title": "Download Starter HTML",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/Download Starter HTML.pdf",
+      "orderIdx": 15
+    },
+    {
+      "id": "delta-9::n16",
+      "title": "Assignment Solutions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/HTML Level 3 (Ans).pdf",
+      "orderIdx": 16
+    },
+    {
+      "id": "delta-9::n17",
+      "title": "Assignment Questions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/HTML Level 3 (Qs).pdf",
+      "orderIdx": 17
+    },
+    {
+      "id": "delta-9::n18",
+      "title": "Assignment Solutions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/CSS Part 1 (Ans).pdf",
+      "orderIdx": 18
+    },
+    {
+      "id": "delta-9::n19",
+      "title": "Assignment Questions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/CSS Part1 (Qs) (1).pdf",
+      "orderIdx": 19
+    },
+    {
+      "id": "delta-9::n20",
+      "title": "Assignment Solutions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/HTML Level 2 (Ans).pdf",
+      "orderIdx": 20
+    },
+    {
+      "id": "delta-9::n21",
+      "title": "Assignment Questions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/HTML Level 2 (Qs).pdf",
+      "orderIdx": 21
+    },
+    {
+      "id": "delta-9::n22",
+      "title": "Assignment Solutions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/HTML Level1 (Ans).pdf",
+      "orderIdx": 22
+    },
+    {
+      "id": "delta-9::n23",
+      "title": "Assignment Questions",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/HTML (Level 1) Qs.pdf",
+      "orderIdx": 23
+    },
+    {
+      "id": "delta-9::n24",
+      "title": "Installation Resources",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/1-Installation Guide.pdf",
+      "orderIdx": 24
+    },
+    {
+      "id": "delta-9::n25",
+      "title": "Telegram Channel Link",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/Telegram Link Delta9.pdf",
+      "orderIdx": 25
+    },
+    {
+      "id": "delta-9::n26",
+      "title": "Fill Your Details",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/Welcome PDF Delta9.pdf",
+      "orderIdx": 26
+    },
+    {
+      "id": "delta-9::n27",
+      "title": "Curriculum",
+      "url": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=KxG3EoANGRJ3NjIzjn5ATf0EGFOMQBF6FdB1mrHU&file=pdf/Delta Curriculum.pdf",
+      "orderIdx": 27
+    }
+  ]
+}
